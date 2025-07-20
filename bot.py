@@ -1,53 +1,24 @@
-import json
+from telegram import Update
+from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import os
-from datetime import datetime
-from telegram import Bot
-from telegram.ext import Application, ContextTypes
-import asyncio
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")  # <- Token als Railway-Secret
+# Bot-Token aus der Environment-Variable lesen
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
-# Chat-ID deiner Gruppe (z. B. -1001234567890)
-CHAT_ID = os.getenv("CHAT_ID")
+# Start-Befehl
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("👋 Bot ist online und bereit!")
 
-# Pfad zur Datei mit den geplanten Beiträgen
-POSTS_FILE = "post.json"
+# /getid-Befehl
+async def get_id(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text(f"🆔 Deine Chat-ID ist: {update.effective_chat.id}")
 
-
-async def send_scheduled_post(application: Application):
-    try:
-        with open(POSTS_FILE, "r", encoding="utf-8") as f:
-            posts = json.load(f)
-
-        now = datetime.now().strftime("%Y-%m-%d %H:%M")
-        for post in posts:
-            if post["datetime"] == now:
-                await application.bot.send_message(chat_id=CHAT_ID, text=post["text"], parse_mode="HTML")
-                break
-
-    except Exception as e:
-        print(f"[Fehler beim Senden des Beitrags] {e}")
-
-
-async def run_scheduler(application: Application):
-    while True:
-        await send_scheduled_post(application)
-        await asyncio.sleep(60)
-
-
-async def main_async():
-    application = Application.builder().token(BOT_TOKEN).build()
-
-    # Starte Scheduler-Loop im Hintergrund
-    asyncio.create_task(run_scheduler(application))
-
-    # Starte Bot (auch wenn er keine Commands hat)
-    await application.run_polling()
-
-
+# Hauptfunktion
 def main():
-    asyncio.run(main_async())
-
+    app = ApplicationBuilder().token(BOT_TOKEN).build()
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("getid", get_id))
+    app.run_polling()
 
 if __name__ == "__main__":
     main()
