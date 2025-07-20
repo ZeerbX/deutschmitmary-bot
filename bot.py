@@ -30,13 +30,13 @@ def post_scheduled_message(context: CallbackContext):
             )
 
 def main():
-    updater = Updater(token=BOT_TOKEN, use_context=True)
+    application = Application.builder().token(BOT_TOKEN).build()
     job_queue: JobQueue = updater.job_queue
 
     # Jede Minute prüfen, ob etwas gepostet werden muss
     job_queue.run_repeating(post_scheduled_message, interval=60, first=5)
 
-    updater.start_polling()
+    application.run_polling()
     updater.idle()
 
 if __name__ == "__main__":
