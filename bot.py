@@ -1,43 +1,53 @@
-
 import json
-import logging
+import os
 from datetime import datetime
 from telegram import Bot
-from telegram.constants import ParseMode
-from telegram.ext import Updater, CallbackContext, JobQueue
-import os
+from telegram.ext import Application, ContextTypes
+import asyncio
 
-# === KONFIGURATION ===
-BOT_TOKEN = os.getenv("BOT_TOKEN")  # Token aus Railway-Umgebung
-CHAT_ID = os.getenv("CHAT_ID")      # Telegram-Chat-ID (z. B. @almani_amuzesh)
+BOT_TOKEN = os.getenv("BOT_TOKEN")  # <- Token als Railway-Secret
 
-# === POSTING-FUNKTION ===
-def post_scheduled_message(context: CallbackContext):
-    now = datetime.now()
-    today = now.strftime("%Y-%m-%d")
-    current_time = now.strftime("%H:%M")
+# Chat-ID deiner Gruppe (z. B. -1001234567890)
+CHAT_ID = os.getenv("CHAT_ID")
 
-    with open("posts.json", "r", encoding="utf-8") as file:
-        posts = json.load(file)
+# Pfad zur Datei mit den geplanten Beiträgen
+POSTS_FILE = "post.json"
 
-    for post in posts:
-        if post["date"] == today and post["time"] == current_time:
-            text = post["text"]
-            context.bot.send_message(
-                chat_id=CHAT_ID,
-                text=text,
-                parse_mode=ParseMode.MARKDOWN_V2
-            )
+
+async def send_scheduled_post(application: Application):
+    try:
+        with open(POSTS_FILE, "r", encoding="utf-8") as f:
+            posts = json.load(f)
+
+        now = datetime.now().strftime("%Y-%m-%d %H:%M")
+        for post in posts:
+            if post["datetime"] == now:
+                await application.bot.send_message(chat_id=CHAT_ID, text=post["text"], parse_mode="HTML")
+                break
+
+    except Exception as e:
+        print(f"[Fehler beim Senden des Beitrags] {e}")
+
+
+async def run_scheduler(application: Application):
+    while True:
+        await send_scheduled_post(application)
+        await asyncio.sleep(60)
+
+
+async def main_async():
+    application = Application.builder().token(BOT_TOKEN).build()
+
+    # Starte Scheduler-Loop im Hintergrund
+    asyncio.create_task(run_scheduler(application))
+
+    # Starte Bot (auch wenn er keine Commands hat)
+    await application.run_polling()
+
 
 def main():
-    application = Application.builder().token(BOT_TOKEN).build()
-    job_queue: JobQueue = updater.job_queue
+    asyncio.run(main_async())
 
-    # Jede Minute prüfen, ob etwas gepostet werden muss
-    job_queue.run_repeating(post_scheduled_message, interval=60, first=5)
-
-    application.run_polling()
-    updater.idle()
 
 if __name__ == "__main__":
     main()
