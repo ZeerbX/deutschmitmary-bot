@@ -2,7 +2,8 @@
 import json
 import logging
 from datetime import datetime
-from telegram import Bot, ParseMode
+from telegram import Bot
+from telegram.constants import ParseMode
 from telegram.ext import Updater, CallbackContext, JobQueue
 import os
 
