@@ -1,6 +1,722 @@
 [
   {
-    "zeit": "12:56",
-    "text": "*Test 2* \\- Für 14:56 deutscher Zeit 🚀"
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort1_ = ترجمه\n📘 Beispielsatz 1.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort2_ = ترجمه\n📘 Beispielsatz 2.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort3_ = ترجمه\n📘 Beispielsatz 3.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort4_ = ترجمه\n📘 Beispielsatz 4.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort5_ = ترجمه\n📘 Beispielsatz 5.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort6_ = ترجمه\n📘 Beispielsatz 6.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort7_ = ترجمه\n📘 Beispielsatz 7.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort8_ = ترجمه\n📘 Beispielsatz 8.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort9_ = ترجمه\n📘 Beispielsatz 9.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A1",
+    "text": "🔤 Wort des Tages (A1)\n\n📌 _Beispielwort10_ = ترجمه\n📘 Beispielsatz 10.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort11_ = ترجمه\n📘 Beispielsatz 11.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort12_ = ترجمه\n📘 Beispielsatz 12.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort13_ = ترجمه\n📘 Beispielsatz 13.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort14_ = ترجمه\n📘 Beispielsatz 14.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort15_ = ترجمه\n📘 Beispielsatz 15.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort16_ = ترجمه\n📘 Beispielsatz 16.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort17_ = ترجمه\n📘 Beispielsatz 17.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort18_ = ترجمه\n📘 Beispielsatz 18.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort19_ = ترجمه\n📘 Beispielsatz 19.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "A2",
+    "text": "🔤 Wort des Tages (A2)\n\n📌 _Beispielwort20_ = ترجمه\n📘 Beispielsatz 20.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort21_ = ترجمه\n📘 Beispielsatz 21.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort22_ = ترجمه\n📘 Beispielsatz 22.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort23_ = ترجمه\n📘 Beispielsatz 23.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort24_ = ترجمه\n📘 Beispielsatz 24.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort25_ = ترجمه\n📘 Beispielsatz 25.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort26_ = ترجمه\n📘 Beispielsatz 26.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort27_ = ترجمه\n📘 Beispielsatz 27.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort28_ = ترجمه\n📘 Beispielsatz 28.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort29_ = ترجمه\n📘 Beispielsatz 29.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "wort",
+    "zeit": "06:00",
+    "niveau": "B1",
+    "text": "🔤 Wort des Tages (B1)\n\n📌 _Beispielwort30_ = ترجمه\n📘 Beispielsatz 30.\n\n📎 توضیح فارسی برای این کلمه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 1\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 2\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 3\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 4\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 5\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 6\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 7\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 8\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 9\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A1",
+    "text": "📚 Grammatik-Tipp (A1)\n\n🔁 Thema 10\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 11\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 12\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 13\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 14\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 15\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 16\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 17\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 18\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 19\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "A2",
+    "text": "📚 Grammatik-Tipp (A2)\n\n🔁 Thema 20\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 21\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 22\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 23\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 24\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 25\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 26\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 27\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 28\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 29\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "grammatik",
+    "zeit": "13:00",
+    "niveau": "B2",
+    "text": "📚 Grammatik-Tipp (B2)\n\n🔁 Thema 30\n📘 Beispielsätze\n\n📎 توضیح فارسی مربوط به این نکته دستوری.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 1: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 2: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 3: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 4: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 5: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 6: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 7: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 8: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 9: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 10: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 11: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 12: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 13: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 14: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 15: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 16: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 17: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 18: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 19: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 20: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 21: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 22: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 23: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 24: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 25: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 26: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 27: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 28: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 29: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
+  },
+  {
+    "typ": "tipp",
+    "zeit": "17:00",
+    "niveau": "alle",
+    "text": "💡 Lerntipp des Tages (alle)\n\n📌 Tipp 30: Lernidee, Motivation oder Redewendung.\n\n📎 توضیح فارسی برای این نکته یا توصیه.",
+    "bild": "",
+    "audio": ""
   }
 ]
