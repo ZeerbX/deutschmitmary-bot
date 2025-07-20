@@ -1,23 +1,36 @@
+import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import os
 
-# Bot-Token aus der Environment-Variable lesen
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+# Logging aktivieren (hilfreich für Railway-Logs)
+logging.basicConfig(
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    level=logging.INFO
+)
 
-# Start-Befehl
+# /start-Befehl
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("👋 Bot ist online und bereit!")
+    await update.message.reply_text("👋 Willkommen bei @DeutschmitMary_bot!")
 
 # /getid-Befehl
 async def get_id(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(f"🆔 Deine Chat-ID ist: {update.effective_chat.id}")
+    chat_id = update.effective_chat.id
+    await update.message.reply_text(f"🆔 Deine Chat ID: `{chat_id}`", parse_mode="Markdown")
 
-# Hauptfunktion
+# Entry-Point
 def main():
-    app = ApplicationBuilder().token(BOT_TOKEN).build()
+    token = os.environ.get("BOT_TOKEN")
+    if not token:
+        raise ValueError("❌ BOT_TOKEN nicht gefunden. Bitte als Environment-Variable setzen.")
+
+    app = ApplicationBuilder().token(token).build()
+
+    # Befehle registrieren
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("getid", get_id))
+
+    print("✅ Bot läuft...")
     app.run_polling()
 
 if __name__ == "__main__":
