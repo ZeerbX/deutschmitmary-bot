@@ -1,12 +1,10 @@
+from telegram.ext.webhookhandler import WebhookServer
+from telegram.ext import ApplicationBuilder, CommandHandler
+from telegram.ext import ContextTypes
 import os
 import json
 import random
 from datetime import datetime
-from telegram.ext import (
-    ApplicationBuilder,
-    CommandHandler,
-    ContextTypes,
-)
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -44,9 +42,9 @@ def escape_markdown(text):
     escape_chars = r'\_*[]()~`>#+-=|{}.!'
     return ''.join(f'\\{c}' if c in escape_chars else c for c in text)
 
-async def post_zur_uhrzeit(context: ContextTypes.DEFAULT_TYPE):
+async def post_zur_uhrzeit(bot):
     now_utc = datetime.utcnow().strftime("%H:%M")
-    print(f"⏰ Starte Postprüfung um {now_utc} UTC")
+    print(f"⏰ Sofortige Prüfung beim Start um {now_utc} UTC")
 
     posts = load_posts()
     posted_ids = load_posted_ids()
@@ -64,10 +62,10 @@ async def post_zur_uhrzeit(context: ContextTypes.DEFAULT_TYPE):
 
     try:
         if image:
-            await context.bot.send_photo(chat_id=CHAT_ID, photo=image)
+            await bot.send_photo(chat_id=CHAT_ID, photo=image)
         if audio:
-            await context.bot.send_audio(chat_id=CHAT_ID, audio=audio)
-        await context.bot.send_message(chat_id=CHAT_ID, text=text, parse_mode="MarkdownV2")
+            await bot.send_audio(chat_id=CHAT_ID, audio=audio)
+        await bot.send_message(chat_id=CHAT_ID, text=text, parse_mode="MarkdownV2")
         print(f"✅ Beitrag gepostet: {post.get('id')}")
         posted_ids.append(post.get("id"))
         save_posted_ids(posted_ids)
@@ -75,7 +73,7 @@ async def post_zur_uhrzeit(context: ContextTypes.DEFAULT_TYPE):
         print(f"❌ Fehler beim Senden: {e}")
 
 async def start(update, context):
-    await update.message.reply_text("✅ Bot läuft – prüft direkt nach dem Start, ob gepostet werden kann.")
+    await update.message.reply_text("✅ Bot läuft.")
 
 async def getid(update, context):
     await update.message.reply_text(
@@ -83,9 +81,10 @@ async def getid(update, context):
         parse_mode="MarkdownV2"
     )
 
-async def post_beim_start(app):
-    context = ContextTypes.DEFAULT_TYPE(application=app, bot=app.bot, chat_data={}, user_data={})
-    await post_zur_uhrzeit(context)
+# ⬇️ Custom Server für GET-Anfrage von UptimeRobot
+class CustomWebhookServer(WebhookServer):
+    async def get(self, request):
+        return self.response(text="✅ Bot ist online!", status=200)
 
 def main():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
@@ -93,44 +92,16 @@ def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("getid", getid))
 
-    async def post_beim_start():
-        now_utc = datetime.utcnow().strftime("%H:%M")
-        print(f"⏰ Sofortige Prüfung beim Start um {now_utc} UTC")
-
-        posts = load_posts()
-        posted_ids = load_posted_ids()
-
-        candidates = [p for p in posts if p.get("zeit") == now_utc and p.get("id") not in posted_ids]
-
-        if not candidates:
-            print("ℹ️ Kein neuer Beitrag für diese Zeit gefunden.")
-            return
-
-        post = random.choice(candidates)
-        text = escape_markdown(post.get("text", ""))
-        image = post.get("bild")
-        audio = post.get("audio")
-
-        try:
-            if image:
-                await app.bot.send_photo(chat_id=CHAT_ID, photo=image)
-            if audio:
-                await app.bot.send_audio(chat_id=CHAT_ID, audio=audio)
-            await app.bot.send_message(chat_id=CHAT_ID, text=text, parse_mode="MarkdownV2")
-            print(f"✅ Beitrag gepostet: {post.get('id')}")
-            posted_ids.append(post.get("id"))
-            save_posted_ids(posted_ids)
-        except Exception as e:
-            print(f"❌ Fehler beim Senden: {e}")
-
+    # Post direkt beim Start prüfen
     import asyncio
-    asyncio.get_event_loop().run_until_complete(post_beim_start())
+    asyncio.get_event_loop().run_until_complete(post_zur_uhrzeit(app.bot))
 
-    # Webhook starten
+    # Starte Webhook mit eigener GET-Antwort
     app.run_webhook(
         listen="0.0.0.0",
         port=PORT,
         webhook_url=WEBHOOK_URL,
+        webhook_server=CustomWebhookServer,
         allowed_updates=["message"]
     )
 
