@@ -93,9 +93,38 @@ def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("getid", getid))
 
-    # Direkt nach dem Start prüfen, ob ein Post fällig ist
+    async def post_beim_start():
+        now_utc = datetime.utcnow().strftime("%H:%M")
+        print(f"⏰ Sofortige Prüfung beim Start um {now_utc} UTC")
+
+        posts = load_posts()
+        posted_ids = load_posted_ids()
+
+        candidates = [p for p in posts if p.get("zeit") == now_utc and p.get("id") not in posted_ids]
+
+        if not candidates:
+            print("ℹ️ Kein neuer Beitrag für diese Zeit gefunden.")
+            return
+
+        post = random.choice(candidates)
+        text = escape_markdown(post.get("text", ""))
+        image = post.get("bild")
+        audio = post.get("audio")
+
+        try:
+            if image:
+                await app.bot.send_photo(chat_id=CHAT_ID, photo=image)
+            if audio:
+                await app.bot.send_audio(chat_id=CHAT_ID, audio=audio)
+            await app.bot.send_message(chat_id=CHAT_ID, text=text, parse_mode="MarkdownV2")
+            print(f"✅ Beitrag gepostet: {post.get('id')}")
+            posted_ids.append(post.get("id"))
+            save_posted_ids(posted_ids)
+        except Exception as e:
+            print(f"❌ Fehler beim Senden: {e}")
+
     import asyncio
-    asyncio.get_event_loop().run_until_complete(post_beim_start(app))
+    asyncio.get_event_loop().run_until_complete(post_beim_start())
 
     # Webhook starten
     app.run_webhook(
