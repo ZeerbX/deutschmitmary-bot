@@ -1,7 +1,7 @@
 import os
 import json
 import random
-from datetime import datetime, time
+from datetime import datetime
 from telegram.ext import (
     ApplicationBuilder,
     CommandHandler,
@@ -67,18 +67,15 @@ async def post_zur_uhrzeit(context: ContextTypes.DEFAULT_TYPE):
             await context.bot.send_photo(chat_id=CHAT_ID, photo=image)
         if audio:
             await context.bot.send_audio(chat_id=CHAT_ID, audio=audio)
-
         await context.bot.send_message(chat_id=CHAT_ID, text=text, parse_mode="MarkdownV2")
         print(f"✅ Beitrag gepostet: {post.get('id')}")
-
         posted_ids.append(post.get("id"))
         save_posted_ids(posted_ids)
-
     except Exception as e:
         print(f"❌ Fehler beim Senden: {e}")
 
 async def start(update, context):
-    await update.message.reply_text("✅ Bot läuft im Energiespar-Modus (3x täglich per Zeitplan).")
+    await update.message.reply_text("✅ Bot läuft – prüft direkt nach dem Start, ob gepostet werden kann.")
 
 async def getid(update, context):
     await update.message.reply_text(
@@ -86,18 +83,21 @@ async def getid(update, context):
         parse_mode="MarkdownV2"
     )
 
+async def post_beim_start(app):
+    context = ContextTypes.DEFAULT_TYPE(application=app, bot=app.bot, chat_data={}, user_data={})
+    await post_zur_uhrzeit(context)
+
 def main():
-    from datetime import time as t
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("getid", getid))
 
-    # 🕒 Nur 3 feste Zeiten täglich (UTC): 06:00, 13:00, 17:00 = MESZ: 08:00, 15:00, 19:00
-    app.job_queue.run_daily(post_zur_uhrzeit, time=t(hour=6, minute=0))
-    app.job_queue.run_daily(post_zur_uhrzeit, time=t(hour=13, minute=0))
-    app.job_queue.run_daily(post_zur_uhrzeit, time=t(hour=17, minute=0))
+    # Direkt nach dem Start prüfen, ob ein Post fällig ist
+    import asyncio
+    asyncio.get_event_loop().run_until_complete(post_beim_start(app))
 
+    # Webhook starten
     app.run_webhook(
         listen="0.0.0.0",
         port=PORT,
