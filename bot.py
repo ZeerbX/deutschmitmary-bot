@@ -1,10 +1,9 @@
-# bot.py
 import os
 import json
 import logging
 import random
-from datetime import datetime
-from telegram import Bot, InputFile
+from datetime import datetime, time
+from telegram import InputFile
 from telegram.constants import ParseMode
 from telegram.ext import Application, ContextTypes, JobQueue
 from dotenv import load_dotenv
@@ -19,8 +18,6 @@ POSTED_IDS_FILE = "posted_ids.txt"
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
 )
-
-# Hilfsfunktionen
 
 def load_posts():
     with open(POSTS_FILE, "r", encoding="utf-8") as f:
@@ -39,7 +36,6 @@ def save_posted_id(post_id):
 def get_unposted_posts(posts, posted_ids):
     return [p for p in posts if p["id"] not in posted_ids]
 
-# Hauptfunktion
 async def send_random_post(context: ContextTypes.DEFAULT_TYPE):
     posts = load_posts()
     posted_ids = load_posted_ids()
@@ -53,8 +49,8 @@ async def send_random_post(context: ContextTypes.DEFAULT_TYPE):
     post_id = post["id"]
     text = f"*{post['title']}*\n{post['text']}"
 
-    # Medien anhängen, wenn vorhanden
-    if media := post.get("media"):
+    media = post.get("media")
+    if media:
         if media.endswith(".jpg") or media.endswith(".png"):
             await context.bot.send_photo(chat_id=CHAT_ID, photo=media, caption=text, parse_mode=ParseMode.MARKDOWN_V2)
         elif media.endswith(".mp3") or media.endswith(".ogg"):
@@ -67,18 +63,13 @@ async def send_random_post(context: ContextTypes.DEFAULT_TYPE):
     save_posted_id(post_id)
     logging.info(f"✅ Beitrag {post_id} wurde gesendet.")
 
-# Bot-Start
-async def main():
+if __name__ == "__main__":
     app = Application.builder().token(BOT_TOKEN).build()
     job_queue: JobQueue = app.job_queue
 
-    # Zeiten: 06:00, 13:00, 17:00 UTC (entspricht MESZ 08:00, 15:00, 19:00)
-    job_queue.run_daily(send_random_post, time=datetime.strptime("06:00", "%H:%M").time(), name="Morning")
-    job_queue.run_daily(send_random_post, time=datetime.strptime("13:00", "%H:%M").time(), name="Afternoon")
-    job_queue.run_daily(send_random_post, time=datetime.strptime("17:00", "%H:%M").time(), name="Evening")
+    # Zeiten in UTC (entspricht 08:00, 15:00, 19:00 MESZ)
+    job_queue.run_daily(send_random_post, time=time(6, 0), name="Morning")
+    job_queue.run_daily(send_random_post, time=time(13, 0), name="Afternoon")
+    job_queue.run_daily(send_random_post, time=time(17, 0), name="Evening")
 
-    await app.run_polling()
-
-if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())
+    app.run_polling()
