@@ -2,7 +2,7 @@ from flask import Flask, request
 import os
 import json
 import random
-from telegram import Bot, InputFile
+from telegram import Bot
 from telegram.constants import ParseMode
 from dotenv import load_dotenv
 
@@ -46,18 +46,20 @@ def send_post():
     text = f"*{post['title']}*\n{post['text']}"
     media = post.get("media")
 
-    if media:
-        if media.endswith(".jpg") or media.endswith(".png"):
-            bot.send_photo(chat_id=CHAT_ID, photo=media, caption=text, parse_mode=ParseMode.MARKDOWN_V2)
-        elif media.endswith(".mp3") or media.endswith(".ogg"):
-            bot.send_audio(chat_id=CHAT_ID, audio=media, caption=text, parse_mode=ParseMode.MARKDOWN_V2)
+    try:
+        if media:
+            if media.endswith(".jpg") or media.endswith(".png"):
+                bot.send_photo(chat_id=CHAT_ID, photo=media, caption=text, parse_mode=ParseMode.MARKDOWN_V2)
+            elif media.endswith(".mp3") or media.endswith(".ogg"):
+                bot.send_audio(chat_id=CHAT_ID, audio=media, caption=text, parse_mode=ParseMode.MARKDOWN_V2)
+            else:
+                bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.MARKDOWN_V2)
         else:
             bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.MARKDOWN_V2)
-    else:
-        bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.MARKDOWN_V2)
-
-    save_posted_id(post_id)
-    return f"✅ Beitrag {post_id} wurde gesendet."
+        save_posted_id(post_id)
+        return f"✅ Beitrag {post_id} wurde gesendet."
+    except Exception as e:
+        return f"⚠️ Fehler beim Senden: {str(e)}"
 
 @app.route("/", methods=["GET"])
 def health():
