@@ -1,3 +1,4 @@
 python-telegram-bot[webhooks,job-queue]==20.7
 urllib3[secure]
 python-dotenv
+aiohttp
