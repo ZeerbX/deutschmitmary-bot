@@ -1,6 +1,5 @@
-from telegram.ext.webhookhandler import WebhookServer
-from telegram.ext import ApplicationBuilder, CommandHandler
-from telegram.ext import ContextTypes
+from aiohttp import web
+from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import os
 import json
 import random
@@ -48,7 +47,6 @@ async def post_zur_uhrzeit(bot):
 
     posts = load_posts()
     posted_ids = load_posted_ids()
-
     candidates = [p for p in posts if p.get("zeit") == now_utc and p.get("id") not in posted_ids]
 
     if not candidates:
@@ -81,29 +79,32 @@ async def getid(update, context):
         parse_mode="MarkdownV2"
     )
 
-# ⬇️ Custom Server für GET-Anfrage von UptimeRobot
-class CustomWebhookServer(WebhookServer):
-    async def get(self, request):
-        return self.response(text="✅ Bot ist online!", status=200)
+async def root_handler(request):
+    return web.Response(text="✅ Bot läuft!", status=200)
 
-def main():
+async def main():
     app = ApplicationBuilder().token(BOT_TOKEN).build()
-
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("getid", getid))
 
-    # Post direkt beim Start prüfen
-    import asyncio
-    asyncio.get_event_loop().run_until_complete(post_zur_uhrzeit(app.bot))
+    # Starte aiohttp-Webserver
+    aiohttp_app = web.Application()
+    aiohttp_app.router.add_get("/", root_handler)
 
-    # Starte Webhook mit eigener GET-Antwort
-    app.run_webhook(
+    await post_zur_uhrzeit(app.bot)
+
+    await app.initialize()
+    await app.start()
+    await app.updater.start_webhook(
         listen="0.0.0.0",
         port=PORT,
         webhook_url=WEBHOOK_URL,
-        webhook_server=CustomWebhookServer,
-        allowed_updates=["message"]
+        web_app=aiohttp_app
     )
 
+    print("🚀 Bot + Webhook läuft...")
+    await app.updater.idle()
+
 if __name__ == "__main__":
-    main()
+    import asyncio
+    asyncio.run(main())
