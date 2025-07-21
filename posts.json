@@ -3,2408 +3,400 @@
     "id": "a1_wort_001",
     "zeit": "06:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #1*\n\n*📘 Wort:* _Beispielwort 1_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 1\n*🇮🇷 فارسی:* ترجمه 1\n\n💬 _Beispielsatz mit Wort 1._",
-    "bild": "https://dein-server.de/bilder/wort_1.png",
-    "audio": "https://dein-server.de/audios/wort_1.mp3"
+    "text": "*[A1] Wort des Tages*\n\n*📘 Begriff:* _Haus_\n*📙 Bedeutung:* ein Gebäude, in dem Menschen wohnen\n*🇮🇷 فارسی:* خانه\n\n💬 _Haus_ – ein Gebäude, in dem Menschen wohnen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_002",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #2*\n\n*📘 Wort:* _Beispielwort 2_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 2\n*🇮🇷 فارسی:* ترجمه 2\n\n💬 _Beispielsatz mit Wort 2._",
-    "bild": "https://dein-server.de/bilder/wort_2.png",
-    "audio": "https://dein-server.de/audios/wort_2.mp3"
+    "id": "a2_wort_002",
+    "zeit": "08:00",
+    "niveau": "A2",
+    "text": "*[A2] Wort des Tages*\n\n*📘 Begriff:* _Auto_\n*📙 Bedeutung:* ein Fahrzeug mit vier Rädern\n*🇮🇷 فارسی:* ماشین\n\n💬 _Auto_ – ein Fahrzeug mit vier Rädern",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_003",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #3*\n\n*📘 Wort:* _Beispielwort 3_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 3\n*🇮🇷 فارسی:* ترجمه 3\n\n💬 _Beispielsatz mit Wort 3._",
-    "bild": "https://dein-server.de/bilder/wort_3.png",
-    "audio": "https://dein-server.de/audios/wort_3.mp3"
+    "id": "b1_wort_003",
+    "zeit": "10:00",
+    "niveau": "B1",
+    "text": "*[B1] Wort des Tages*\n\n*📘 Begriff:* _Baum_\n*📙 Bedeutung:* eine große Pflanze mit Stamm\n*🇮🇷 فارسی:* درخت\n\n💬 _Baum_ – eine große Pflanze mit Stamm",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_004",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #4*\n\n*📘 Wort:* _Beispielwort 4_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 4\n*🇮🇷 فارسی:* ترجمه 4\n\n💬 _Beispielsatz mit Wort 4._",
-    "bild": "https://dein-server.de/bilder/wort_4.png",
-    "audio": "https://dein-server.de/audios/wort_4.mp3"
+    "id": "b2_wort_004",
+    "zeit": "12:00",
+    "niveau": "B2",
+    "text": "*[B2] Wort des Tages*\n\n*📘 Begriff:* _Buch_\n*📙 Bedeutung:* etwas, das man lesen kann\n*🇮🇷 فارسی:* کتاب\n\n💬 _Buch_ – etwas, das man lesen kann",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
     "id": "a1_wort_005",
-    "zeit": "13:00",
+    "zeit": "14:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #5*\n\n*📘 Wort:* _Beispielwort 5_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 5\n*🇮🇷 فارسی:* ترجمه 5\n\n💬 _Beispielsatz mit Wort 5._",
-    "bild": "https://dein-server.de/bilder/wort_5.png",
-    "audio": "https://dein-server.de/audios/wort_5.mp3"
+    "text": "*[A1] Wort des Tages*\n\n*📘 Begriff:* _Stuhl_\n*📙 Bedeutung:* ein Möbelstück zum Sitzen\n*🇮🇷 فارسی:* صندلی\n\n💬 _Stuhl_ – ein Möbelstück zum Sitzen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_006",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #6*\n\n*📘 Wort:* _Beispielwort 6_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 6\n*🇮🇷 فارسی:* ترجمه 6\n\n💬 _Beispielsatz mit Wort 6._",
-    "bild": "https://dein-server.de/bilder/wort_6.png",
-    "audio": "https://dein-server.de/audios/wort_6.mp3"
+    "id": "a2_wort_006",
+    "zeit": "16:00",
+    "niveau": "A2",
+    "text": "*[A2] Wort des Tages*\n\n*📘 Begriff:* _Straße_\n*📙 Bedeutung:* ein Weg für Autos und Menschen\n*🇮🇷 فارسی:* خیابان\n\n💬 _Straße_ – ein Weg für Autos und Menschen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_007",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #7*\n\n*📘 Wort:* _Beispielwort 7_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 7\n*🇮🇷 فارسی:* ترجمه 7\n\n💬 _Beispielsatz mit Wort 7._",
-    "bild": "https://dein-server.de/bilder/wort_7.png",
-    "audio": "https://dein-server.de/audios/wort_7.mp3"
+    "id": "b1_wort_007",
+    "zeit": "18:00",
+    "niveau": "B1",
+    "text": "*[B1] Wort des Tages*\n\n*📘 Begriff:* _Fenster_\n*📙 Bedeutung:* eine Glasöffnung in der Wand\n*🇮🇷 فارسی:* پنجره\n\n💬 _Fenster_ – eine Glasöffnung in der Wand",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_008",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #8*\n\n*📘 Wort:* _Beispielwort 8_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 8\n*🇮🇷 فارسی:* ترجمه 8\n\n💬 _Beispielsatz mit Wort 8._",
-    "bild": "https://dein-server.de/bilder/wort_8.png",
-    "audio": "https://dein-server.de/audios/wort_8.mp3"
+    "id": "b2_wort_008",
+    "zeit": "20:00",
+    "niveau": "B2",
+    "text": "*[B2] Wort des Tages*\n\n*📘 Begriff:* _Tisch_\n*📙 Bedeutung:* ein Möbelstück zum Arbeiten oder Essen\n*🇮🇷 فارسی:* میز\n\n💬 _Tisch_ – ein Möbelstück zum Arbeiten oder Essen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
     "id": "a1_wort_009",
-    "zeit": "17:00",
+    "zeit": "22:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #9*\n\n*📘 Wort:* _Beispielwort 9_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 9\n*🇮🇷 فارسی:* ترجمه 9\n\n💬 _Beispielsatz mit Wort 9._",
-    "bild": "https://dein-server.de/bilder/wort_9.png",
-    "audio": "https://dein-server.de/audios/wort_9.mp3"
+    "text": "*[A1] Wort des Tages*\n\n*📘 Begriff:* _Lampe_\n*📙 Bedeutung:* ein Gerät, das Licht gibt\n*🇮🇷 فارسی:* چراغ\n\n💬 _Lampe_ – ein Gerät, das Licht gibt",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_010",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #10*\n\n*📘 Wort:* _Beispielwort 10_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 10\n*🇮🇷 فارسی:* ترجمه 10\n\n💬 _Beispielsatz mit Wort 10._",
-    "bild": "https://dein-server.de/bilder/wort_10.png",
-    "audio": "https://dein-server.de/audios/wort_10.mp3"
-  },
-  {
-    "id": "a1_wort_011",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #11*\n\n*📘 Wort:* _Beispielwort 11_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 11\n*🇮🇷 فارسی:* ترجمه 11\n\n💬 _Beispielsatz mit Wort 11._",
-    "bild": "https://dein-server.de/bilder/wort_11.png",
-    "audio": "https://dein-server.de/audios/wort_11.mp3"
-  },
-  {
-    "id": "a1_wort_012",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #12*\n\n*📘 Wort:* _Beispielwort 12_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 12\n*🇮🇷 فارسی:* ترجمه 12\n\n💬 _Beispielsatz mit Wort 12._",
-    "bild": "https://dein-server.de/bilder/wort_12.png",
-    "audio": "https://dein-server.de/audios/wort_12.mp3"
-  },
-  {
-    "id": "a1_wort_013",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #13*\n\n*📘 Wort:* _Beispielwort 13_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 13\n*🇮🇷 فارسی:* ترجمه 13\n\n💬 _Beispielsatz mit Wort 13._",
-    "bild": "https://dein-server.de/bilder/wort_13.png",
-    "audio": "https://dein-server.de/audios/wort_13.mp3"
-  },
-  {
-    "id": "a1_wort_014",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #14*\n\n*📘 Wort:* _Beispielwort 14_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 14\n*🇮🇷 فارسی:* ترجمه 14\n\n💬 _Beispielsatz mit Wort 14._",
-    "bild": "https://dein-server.de/bilder/wort_14.png",
-    "audio": "https://dein-server.de/audios/wort_14.mp3"
-  },
-  {
-    "id": "a1_wort_015",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #15*\n\n*📘 Wort:* _Beispielwort 15_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 15\n*🇮🇷 فارسی:* ترجمه 15\n\n💬 _Beispielsatz mit Wort 15._",
-    "bild": "https://dein-server.de/bilder/wort_15.png",
-    "audio": "https://dein-server.de/audios/wort_15.mp3"
-  },
-  {
-    "id": "a1_wort_016",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #16*\n\n*📘 Wort:* _Beispielwort 16_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 16\n*🇮🇷 فارسی:* ترجمه 16\n\n💬 _Beispielsatz mit Wort 16._",
-    "bild": "https://dein-server.de/bilder/wort_16.png",
-    "audio": "https://dein-server.de/audios/wort_16.mp3"
-  },
-  {
-    "id": "a1_wort_017",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #17*\n\n*📘 Wort:* _Beispielwort 17_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 17\n*🇮🇷 فارسی:* ترجمه 17\n\n💬 _Beispielsatz mit Wort 17._",
-    "bild": "https://dein-server.de/bilder/wort_17.png",
-    "audio": "https://dein-server.de/audios/wort_17.mp3"
-  },
-  {
-    "id": "a1_wort_018",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #18*\n\n*📘 Wort:* _Beispielwort 18_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 18\n*🇮🇷 فارسی:* ترجمه 18\n\n💬 _Beispielsatz mit Wort 18._",
-    "bild": "https://dein-server.de/bilder/wort_18.png",
-    "audio": "https://dein-server.de/audios/wort_18.mp3"
-  },
-  {
-    "id": "a1_wort_019",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #19*\n\n*📘 Wort:* _Beispielwort 19_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 19\n*🇮🇷 فارسی:* ترجمه 19\n\n💬 _Beispielsatz mit Wort 19._",
-    "bild": "https://dein-server.de/bilder/wort_19.png",
-    "audio": "https://dein-server.de/audios/wort_19.mp3"
-  },
-  {
-    "id": "a1_wort_020",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #20*\n\n*📘 Wort:* _Beispielwort 20_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 20\n*🇮🇷 فارسی:* ترجمه 20\n\n💬 _Beispielsatz mit Wort 20._",
-    "bild": "https://dein-server.de/bilder/wort_20.png",
-    "audio": "https://dein-server.de/audios/wort_20.mp3"
-  },
-  {
-    "id": "a1_wort_021",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #21*\n\n*📘 Wort:* _Beispielwort 21_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 21\n*🇮🇷 فارسی:* ترجمه 21\n\n💬 _Beispielsatz mit Wort 21._",
-    "bild": "https://dein-server.de/bilder/wort_21.png",
-    "audio": "https://dein-server.de/audios/wort_21.mp3"
-  },
-  {
-    "id": "a1_wort_022",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #22*\n\n*📘 Wort:* _Beispielwort 22_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 22\n*🇮🇷 فارسی:* ترجمه 22\n\n💬 _Beispielsatz mit Wort 22._",
-    "bild": "https://dein-server.de/bilder/wort_22.png",
-    "audio": "https://dein-server.de/audios/wort_22.mp3"
-  },
-  {
-    "id": "a1_wort_023",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #23*\n\n*📘 Wort:* _Beispielwort 23_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 23\n*🇮🇷 فارسی:* ترجمه 23\n\n💬 _Beispielsatz mit Wort 23._",
-    "bild": "https://dein-server.de/bilder/wort_23.png",
-    "audio": "https://dein-server.de/audios/wort_23.mp3"
-  },
-  {
-    "id": "a1_wort_024",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #24*\n\n*📘 Wort:* _Beispielwort 24_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 24\n*🇮🇷 فارسی:* ترجمه 24\n\n💬 _Beispielsatz mit Wort 24._",
-    "bild": "https://dein-server.de/bilder/wort_24.png",
-    "audio": "https://dein-server.de/audios/wort_24.mp3"
-  },
-  {
-    "id": "a1_wort_025",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #25*\n\n*📘 Wort:* _Beispielwort 25_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 25\n*🇮🇷 فارسی:* ترجمه 25\n\n💬 _Beispielsatz mit Wort 25._",
-    "bild": "https://dein-server.de/bilder/wort_25.png",
-    "audio": "https://dein-server.de/audios/wort_25.mp3"
-  },
-  {
-    "id": "a1_wort_026",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #26*\n\n*📘 Wort:* _Beispielwort 26_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 26\n*🇮🇷 فارسی:* ترجمه 26\n\n💬 _Beispielsatz mit Wort 26._",
-    "bild": "https://dein-server.de/bilder/wort_26.png",
-    "audio": "https://dein-server.de/audios/wort_26.mp3"
-  },
-  {
-    "id": "a1_wort_027",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #27*\n\n*📘 Wort:* _Beispielwort 27_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 27\n*🇮🇷 فارسی:* ترجمه 27\n\n💬 _Beispielsatz mit Wort 27._",
-    "bild": "https://dein-server.de/bilder/wort_27.png",
-    "audio": "https://dein-server.de/audios/wort_27.mp3"
-  },
-  {
-    "id": "a1_wort_028",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #28*\n\n*📘 Wort:* _Beispielwort 28_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 28\n*🇮🇷 فارسی:* ترجمه 28\n\n💬 _Beispielsatz mit Wort 28._",
-    "bild": "https://dein-server.de/bilder/wort_28.png",
-    "audio": "https://dein-server.de/audios/wort_28.mp3"
-  },
-  {
-    "id": "a1_wort_029",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #29*\n\n*📘 Wort:* _Beispielwort 29_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 29\n*🇮🇷 فارسی:* ترجمه 29\n\n💬 _Beispielsatz mit Wort 29._",
-    "bild": "https://dein-server.de/bilder/wort_29.png",
-    "audio": "https://dein-server.de/audios/wort_29.mp3"
-  },
-  {
-    "id": "a1_wort_030",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #30*\n\n*📘 Wort:* _Beispielwort 30_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 30\n*🇮🇷 فارسی:* ترجمه 30\n\n💬 _Beispielsatz mit Wort 30._",
-    "bild": "https://dein-server.de/bilder/wort_30.png",
-    "audio": "https://dein-server.de/audios/wort_30.mp3"
-  },
-  {
-    "id": "a1_wort_031",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #31*\n\n*📘 Wort:* _Beispielwort 31_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 31\n*🇮🇷 فارسی:* ترجمه 31\n\n💬 _Beispielsatz mit Wort 31._",
-    "bild": "https://dein-server.de/bilder/wort_31.png",
-    "audio": "https://dein-server.de/audios/wort_31.mp3"
-  },
-  {
-    "id": "a1_wort_032",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #32*\n\n*📘 Wort:* _Beispielwort 32_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 32\n*🇮🇷 فارسی:* ترجمه 32\n\n💬 _Beispielsatz mit Wort 32._",
-    "bild": "https://dein-server.de/bilder/wort_32.png",
-    "audio": "https://dein-server.de/audios/wort_32.mp3"
-  },
-  {
-    "id": "a1_wort_033",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #33*\n\n*📘 Wort:* _Beispielwort 33_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 33\n*🇮🇷 فارسی:* ترجمه 33\n\n💬 _Beispielsatz mit Wort 33._",
-    "bild": "https://dein-server.de/bilder/wort_33.png",
-    "audio": "https://dein-server.de/audios/wort_33.mp3"
-  },
-  {
-    "id": "a1_wort_034",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #34*\n\n*📘 Wort:* _Beispielwort 34_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 34\n*🇮🇷 فارسی:* ترجمه 34\n\n💬 _Beispielsatz mit Wort 34._",
-    "bild": "https://dein-server.de/bilder/wort_34.png",
-    "audio": "https://dein-server.de/audios/wort_34.mp3"
-  },
-  {
-    "id": "a1_wort_035",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #35*\n\n*📘 Wort:* _Beispielwort 35_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 35\n*🇮🇷 فارسی:* ترجمه 35\n\n💬 _Beispielsatz mit Wort 35._",
-    "bild": "https://dein-server.de/bilder/wort_35.png",
-    "audio": "https://dein-server.de/audios/wort_35.mp3"
-  },
-  {
-    "id": "a1_wort_036",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #36*\n\n*📘 Wort:* _Beispielwort 36_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 36\n*🇮🇷 فارسی:* ترجمه 36\n\n💬 _Beispielsatz mit Wort 36._",
-    "bild": "https://dein-server.de/bilder/wort_36.png",
-    "audio": "https://dein-server.de/audios/wort_36.mp3"
-  },
-  {
-    "id": "a1_wort_037",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #37*\n\n*📘 Wort:* _Beispielwort 37_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 37\n*🇮🇷 فارسی:* ترجمه 37\n\n💬 _Beispielsatz mit Wort 37._",
-    "bild": "https://dein-server.de/bilder/wort_37.png",
-    "audio": "https://dein-server.de/audios/wort_37.mp3"
-  },
-  {
-    "id": "a1_wort_038",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #38*\n\n*📘 Wort:* _Beispielwort 38_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 38\n*🇮🇷 فارسی:* ترجمه 38\n\n💬 _Beispielsatz mit Wort 38._",
-    "bild": "https://dein-server.de/bilder/wort_38.png",
-    "audio": "https://dein-server.de/audios/wort_38.mp3"
-  },
-  {
-    "id": "a1_wort_039",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #39*\n\n*📘 Wort:* _Beispielwort 39_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 39\n*🇮🇷 فارسی:* ترجمه 39\n\n💬 _Beispielsatz mit Wort 39._",
-    "bild": "https://dein-server.de/bilder/wort_39.png",
-    "audio": "https://dein-server.de/audios/wort_39.mp3"
-  },
-  {
-    "id": "a1_wort_040",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #40*\n\n*📘 Wort:* _Beispielwort 40_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 40\n*🇮🇷 فارسی:* ترجمه 40\n\n💬 _Beispielsatz mit Wort 40._",
-    "bild": "https://dein-server.de/bilder/wort_40.png",
-    "audio": "https://dein-server.de/audios/wort_40.mp3"
-  },
-  {
-    "id": "a1_wort_041",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #41*\n\n*📘 Wort:* _Beispielwort 41_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 41\n*🇮🇷 فارسی:* ترجمه 41\n\n💬 _Beispielsatz mit Wort 41._",
-    "bild": "https://dein-server.de/bilder/wort_41.png",
-    "audio": "https://dein-server.de/audios/wort_41.mp3"
-  },
-  {
-    "id": "a1_wort_042",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #42*\n\n*📘 Wort:* _Beispielwort 42_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 42\n*🇮🇷 فارسی:* ترجمه 42\n\n💬 _Beispielsatz mit Wort 42._",
-    "bild": "https://dein-server.de/bilder/wort_42.png",
-    "audio": "https://dein-server.de/audios/wort_42.mp3"
-  },
-  {
-    "id": "a1_wort_043",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #43*\n\n*📘 Wort:* _Beispielwort 43_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 43\n*🇮🇷 فارسی:* ترجمه 43\n\n💬 _Beispielsatz mit Wort 43._",
-    "bild": "https://dein-server.de/bilder/wort_43.png",
-    "audio": "https://dein-server.de/audios/wort_43.mp3"
-  },
-  {
-    "id": "a1_wort_044",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #44*\n\n*📘 Wort:* _Beispielwort 44_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 44\n*🇮🇷 فارسی:* ترجمه 44\n\n💬 _Beispielsatz mit Wort 44._",
-    "bild": "https://dein-server.de/bilder/wort_44.png",
-    "audio": "https://dein-server.de/audios/wort_44.mp3"
-  },
-  {
-    "id": "a1_wort_045",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #45*\n\n*📘 Wort:* _Beispielwort 45_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 45\n*🇮🇷 فارسی:* ترجمه 45\n\n💬 _Beispielsatz mit Wort 45._",
-    "bild": "https://dein-server.de/bilder/wort_45.png",
-    "audio": "https://dein-server.de/audios/wort_45.mp3"
-  },
-  {
-    "id": "a1_wort_046",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #46*\n\n*📘 Wort:* _Beispielwort 46_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 46\n*🇮🇷 فارسی:* ترجمه 46\n\n💬 _Beispielsatz mit Wort 46._",
-    "bild": "https://dein-server.de/bilder/wort_46.png",
-    "audio": "https://dein-server.de/audios/wort_46.mp3"
-  },
-  {
-    "id": "a1_wort_047",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #47*\n\n*📘 Wort:* _Beispielwort 47_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 47\n*🇮🇷 فارسی:* ترجمه 47\n\n💬 _Beispielsatz mit Wort 47._",
-    "bild": "https://dein-server.de/bilder/wort_47.png",
-    "audio": "https://dein-server.de/audios/wort_47.mp3"
-  },
-  {
-    "id": "a1_wort_048",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #48*\n\n*📘 Wort:* _Beispielwort 48_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 48\n*🇮🇷 فارسی:* ترجمه 48\n\n💬 _Beispielsatz mit Wort 48._",
-    "bild": "https://dein-server.de/bilder/wort_48.png",
-    "audio": "https://dein-server.de/audios/wort_48.mp3"
-  },
-  {
-    "id": "a1_wort_049",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #49*\n\n*📘 Wort:* _Beispielwort 49_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 49\n*🇮🇷 فارسی:* ترجمه 49\n\n💬 _Beispielsatz mit Wort 49._",
-    "bild": "https://dein-server.de/bilder/wort_49.png",
-    "audio": "https://dein-server.de/audios/wort_49.mp3"
-  },
-  {
-    "id": "a1_wort_050",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #50*\n\n*📘 Wort:* _Beispielwort 50_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 50\n*🇮🇷 فارسی:* ترجمه 50\n\n💬 _Beispielsatz mit Wort 50._",
-    "bild": "https://dein-server.de/bilder/wort_50.png",
-    "audio": "https://dein-server.de/audios/wort_50.mp3"
-  },
-  {
-    "id": "a1_wort_051",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #51*\n\n*📘 Wort:* _Beispielwort 51_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 51\n*🇮🇷 فارسی:* ترجمه 51\n\n💬 _Beispielsatz mit Wort 51._",
-    "bild": "https://dein-server.de/bilder/wort_51.png",
-    "audio": "https://dein-server.de/audios/wort_51.mp3"
-  },
-  {
-    "id": "a1_wort_052",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #52*\n\n*📘 Wort:* _Beispielwort 52_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 52\n*🇮🇷 فارسی:* ترجمه 52\n\n💬 _Beispielsatz mit Wort 52._",
-    "bild": "https://dein-server.de/bilder/wort_52.png",
-    "audio": "https://dein-server.de/audios/wort_52.mp3"
-  },
-  {
-    "id": "a1_wort_053",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #53*\n\n*📘 Wort:* _Beispielwort 53_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 53\n*🇮🇷 فارسی:* ترجمه 53\n\n💬 _Beispielsatz mit Wort 53._",
-    "bild": "https://dein-server.de/bilder/wort_53.png",
-    "audio": "https://dein-server.de/audios/wort_53.mp3"
-  },
-  {
-    "id": "a1_wort_054",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #54*\n\n*📘 Wort:* _Beispielwort 54_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 54\n*🇮🇷 فارسی:* ترجمه 54\n\n💬 _Beispielsatz mit Wort 54._",
-    "bild": "https://dein-server.de/bilder/wort_54.png",
-    "audio": "https://dein-server.de/audios/wort_54.mp3"
-  },
-  {
-    "id": "a1_wort_055",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #55*\n\n*📘 Wort:* _Beispielwort 55_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 55\n*🇮🇷 فارسی:* ترجمه 55\n\n💬 _Beispielsatz mit Wort 55._",
-    "bild": "https://dein-server.de/bilder/wort_55.png",
-    "audio": "https://dein-server.de/audios/wort_55.mp3"
-  },
-  {
-    "id": "a1_wort_056",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #56*\n\n*📘 Wort:* _Beispielwort 56_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 56\n*🇮🇷 فارسی:* ترجمه 56\n\n💬 _Beispielsatz mit Wort 56._",
-    "bild": "https://dein-server.de/bilder/wort_56.png",
-    "audio": "https://dein-server.de/audios/wort_56.mp3"
-  },
-  {
-    "id": "a1_wort_057",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #57*\n\n*📘 Wort:* _Beispielwort 57_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 57\n*🇮🇷 فارسی:* ترجمه 57\n\n💬 _Beispielsatz mit Wort 57._",
-    "bild": "https://dein-server.de/bilder/wort_57.png",
-    "audio": "https://dein-server.de/audios/wort_57.mp3"
-  },
-  {
-    "id": "a1_wort_058",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #58*\n\n*📘 Wort:* _Beispielwort 58_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 58\n*🇮🇷 فارسی:* ترجمه 58\n\n💬 _Beispielsatz mit Wort 58._",
-    "bild": "https://dein-server.de/bilder/wort_58.png",
-    "audio": "https://dein-server.de/audios/wort_58.mp3"
-  },
-  {
-    "id": "a1_wort_059",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #59*\n\n*📘 Wort:* _Beispielwort 59_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 59\n*🇮🇷 فارسی:* ترجمه 59\n\n💬 _Beispielsatz mit Wort 59._",
-    "bild": "https://dein-server.de/bilder/wort_59.png",
-    "audio": "https://dein-server.de/audios/wort_59.mp3"
-  },
-  {
-    "id": "a1_wort_060",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #60*\n\n*📘 Wort:* _Beispielwort 60_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 60\n*🇮🇷 فارسی:* ترجمه 60\n\n💬 _Beispielsatz mit Wort 60._",
-    "bild": "https://dein-server.de/bilder/wort_60.png",
-    "audio": "https://dein-server.de/audios/wort_60.mp3"
-  },
-  {
-    "id": "a1_wort_061",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #61*\n\n*📘 Wort:* _Beispielwort 61_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 61\n*🇮🇷 فارسی:* ترجمه 61\n\n💬 _Beispielsatz mit Wort 61._",
-    "bild": "https://dein-server.de/bilder/wort_61.png",
-    "audio": "https://dein-server.de/audios/wort_61.mp3"
-  },
-  {
-    "id": "a1_wort_062",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #62*\n\n*📘 Wort:* _Beispielwort 62_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 62\n*🇮🇷 فارسی:* ترجمه 62\n\n💬 _Beispielsatz mit Wort 62._",
-    "bild": "https://dein-server.de/bilder/wort_62.png",
-    "audio": "https://dein-server.de/audios/wort_62.mp3"
-  },
-  {
-    "id": "a1_wort_063",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #63*\n\n*📘 Wort:* _Beispielwort 63_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 63\n*🇮🇷 فارسی:* ترجمه 63\n\n💬 _Beispielsatz mit Wort 63._",
-    "bild": "https://dein-server.de/bilder/wort_63.png",
-    "audio": "https://dein-server.de/audios/wort_63.mp3"
+    "id": "a2_wort_010",
+    "zeit": "00:00",
+    "niveau": "A2",
+    "text": "*[A2] Wort des Tages*\n\n*📘 Begriff:* _Schule_\n*📙 Bedeutung:* ein Ort zum Lernen\n*🇮🇷 فارسی:* مدرسه\n\n💬 _Schule_ – ein Ort zum Lernen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_064",
+    "id": "a1_redewendung_001",
     "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #64*\n\n*📘 Wort:* _Beispielwort 64_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 64\n*🇮🇷 فارسی:* ترجمه 64\n\n💬 _Beispielsatz mit Wort 64._",
-    "bild": "https://dein-server.de/bilder/wort_64.png",
-    "audio": "https://dein-server.de/audios/wort_64.mp3"
-  },
-  {
-    "id": "a1_wort_065",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #65*\n\n*📘 Wort:* _Beispielwort 65_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 65\n*🇮🇷 فارسی:* ترجمه 65\n\n💬 _Beispielsatz mit Wort 65._",
-    "bild": "https://dein-server.de/bilder/wort_65.png",
-    "audio": "https://dein-server.de/audios/wort_65.mp3"
-  },
-  {
-    "id": "a1_wort_066",
-    "zeit": "17:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #66*\n\n*📘 Wort:* _Beispielwort 66_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 66\n*🇮🇷 فارسی:* ترجمه 66\n\n💬 _Beispielsatz mit Wort 66._",
-    "bild": "https://dein-server.de/bilder/wort_66.png",
-    "audio": "https://dein-server.de/audios/wort_66.mp3"
+    "text": "*[A1] Redewendung des Tages*\n\n*🗣️ Begriff:* _Tomaten auf den Augen haben_\n*📙 Bedeutung:* etwas Offensichtliches nicht sehen\n*🇮🇷 فارسی:* چیزی واضح را نبینیم\n\n💬 _Tomaten auf den Augen haben_ – etwas Offensichtliches nicht sehen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_067",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #67*\n\n*📘 Wort:* _Beispielwort 67_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 67\n*🇮🇷 فارسی:* ترجمه 67\n\n💬 _Beispielsatz mit Wort 67._",
-    "bild": "https://dein-server.de/bilder/wort_67.png",
-    "audio": "https://dein-server.de/audios/wort_67.mp3"
+    "id": "a2_redewendung_002",
+    "zeit": "08:00",
+    "niveau": "A2",
+    "text": "*[A2] Redewendung des Tages*\n\n*🗣️ Begriff:* _Da liegt der Hund begraben_\n*📙 Bedeutung:* das ist die wahre Ursache\n*🇮🇷 فارسی:* دلیل اصلی همین است\n\n💬 _Da liegt der Hund begraben_ – das ist die wahre Ursache",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_068",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #68*\n\n*📘 Wort:* _Beispielwort 68_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 68\n*🇮🇷 فارسی:* ترجمه 68\n\n💬 _Beispielsatz mit Wort 68._",
-    "bild": "https://dein-server.de/bilder/wort_68.png",
-    "audio": "https://dein-server.de/audios/wort_68.mp3"
+    "id": "b1_redewendung_003",
+    "zeit": "10:00",
+    "niveau": "B1",
+    "text": "*[B1] Redewendung des Tages*\n\n*🗣️ Begriff:* _Ins kalte Wasser springen_\n*📙 Bedeutung:* etwas Neues wagen\n*🇮🇷 فارسی:* چیزی جدید را با شجاعت شروع کردن\n\n💬 _Ins kalte Wasser springen_ – etwas Neues wagen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_069",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #69*\n\n*📘 Wort:* _Beispielwort 69_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 69\n*🇮🇷 فارسی:* ترجمه 69\n\n💬 _Beispielsatz mit Wort 69._",
-    "bild": "https://dein-server.de/bilder/wort_69.png",
-    "audio": "https://dein-server.de/audios/wort_69.mp3"
+    "id": "b2_redewendung_004",
+    "zeit": "12:00",
+    "niveau": "B2",
+    "text": "*[B2] Redewendung des Tages*\n\n*🗣️ Begriff:* _Jemandem die Daumen drücken_\n*📙 Bedeutung:* jemandem Glück wünschen\n*🇮🇷 فارسی:* برای کسی آرزوی موفقیت کردن\n\n💬 _Jemandem die Daumen drücken_ – jemandem Glück wünschen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_070",
-    "zeit": "06:00",
+    "id": "a1_redewendung_005",
+    "zeit": "14:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #70*\n\n*📘 Wort:* _Beispielwort 70_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 70\n*🇮🇷 فارسی:* ترجمه 70\n\n💬 _Beispielsatz mit Wort 70._",
-    "bild": "https://dein-server.de/bilder/wort_70.png",
-    "audio": "https://dein-server.de/audios/wort_70.mp3"
+    "text": "*[A1] Redewendung des Tages*\n\n*🗣️ Begriff:* _Ein Auge zudrücken_\n*📙 Bedeutung:* etwas tolerieren\n*🇮🇷 فارسی:* چیزی را نادیده گرفتن\n\n💬 _Ein Auge zudrücken_ – etwas tolerieren",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_071",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #71*\n\n*📘 Wort:* _Beispielwort 71_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 71\n*🇮🇷 فارسی:* ترجمه 71\n\n💬 _Beispielsatz mit Wort 71._",
-    "bild": "https://dein-server.de/bilder/wort_71.png",
-    "audio": "https://dein-server.de/audios/wort_71.mp3"
+    "id": "a2_redewendung_006",
+    "zeit": "16:00",
+    "niveau": "A2",
+    "text": "*[A2] Redewendung des Tages*\n\n*🗣️ Begriff:* _Den Nagel auf den Kopf treffen_\n*📙 Bedeutung:* genau richtig liegen\n*🇮🇷 فارسی:* درست گفتن\n\n💬 _Den Nagel auf den Kopf treffen_ – genau richtig liegen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_072",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #72*\n\n*📘 Wort:* _Beispielwort 72_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 72\n*🇮🇷 فارسی:* ترجمه 72\n\n💬 _Beispielsatz mit Wort 72._",
-    "bild": "https://dein-server.de/bilder/wort_72.png",
-    "audio": "https://dein-server.de/audios/wort_72.mp3"
+    "id": "b1_redewendung_007",
+    "zeit": "18:00",
+    "niveau": "B1",
+    "text": "*[B1] Redewendung des Tages*\n\n*🗣️ Begriff:* _Alles in Butter_\n*📙 Bedeutung:* alles ist in Ordnung\n*🇮🇷 فارسی:* همه چیز خوب است\n\n💬 _Alles in Butter_ – alles ist in Ordnung",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_073",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #73*\n\n*📘 Wort:* _Beispielwort 73_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 73\n*🇮🇷 فارسی:* ترجمه 73\n\n💬 _Beispielsatz mit Wort 73._",
-    "bild": "https://dein-server.de/bilder/wort_73.png",
-    "audio": "https://dein-server.de/audios/wort_73.mp3"
+    "id": "b2_redewendung_008",
+    "zeit": "20:00",
+    "niveau": "B2",
+    "text": "*[B2] Redewendung des Tages*\n\n*🗣️ Begriff:* _Die Kirche im Dorf lassen_\n*📙 Bedeutung:* nicht übertreiben\n*🇮🇷 فارسی:* اغراق نکردن\n\n💬 _Die Kirche im Dorf lassen_ – nicht übertreiben",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_074",
-    "zeit": "13:00",
+    "id": "a1_redewendung_009",
+    "zeit": "22:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #74*\n\n*📘 Wort:* _Beispielwort 74_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 74\n*🇮🇷 فارسی:* ترجمه 74\n\n💬 _Beispielsatz mit Wort 74._",
-    "bild": "https://dein-server.de/bilder/wort_74.png",
-    "audio": "https://dein-server.de/audios/wort_74.mp3"
+    "text": "*[A1] Redewendung des Tages*\n\n*🗣️ Begriff:* _Den Faden verlieren_\n*📙 Bedeutung:* nicht mehr wissen, worum es geht\n*🇮🇷 فارسی:* موضوع را گم کردن\n\n💬 _Den Faden verlieren_ – nicht mehr wissen, worum es geht",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_075",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #75*\n\n*📘 Wort:* _Beispielwort 75_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 75\n*🇮🇷 فارسی:* ترجمه 75\n\n💬 _Beispielsatz mit Wort 75._",
-    "bild": "https://dein-server.de/bilder/wort_75.png",
-    "audio": "https://dein-server.de/audios/wort_75.mp3"
+    "id": "a2_redewendung_010",
+    "zeit": "00:00",
+    "niveau": "A2",
+    "text": "*[A2] Redewendung des Tages*\n\n*🗣️ Begriff:* _Jemandem einen Bären aufbinden_\n*📙 Bedeutung:* jemanden täuschen\n*🇮🇷 فارسی:* کسی را فریب دادن\n\n💬 _Jemandem einen Bären aufbinden_ – jemanden täuschen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_076",
+    "id": "a1_grammatik_001",
     "zeit": "06:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #76*\n\n*📘 Wort:* _Beispielwort 76_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 76\n*🇮🇷 فارسی:* ترجمه 76\n\n💬 _Beispielsatz mit Wort 76._",
-    "bild": "https://dein-server.de/bilder/wort_76.png",
-    "audio": "https://dein-server.de/audios/wort_76.mp3"
+    "text": "*[A1] Grammatik-Tipp*\n\n*📙 Begriff:* _Konjunktiv II – Höflichkeit_\n*📙 Bedeutung:* Mit dem Konjunktiv II kann man höflich bitten oder Wünsche ausdrücken.\n*🇮🇷 فارسی:* با Konjunktiv II می‌توان محترمانه درخواست کرد یا آرزو بیان کرد.\n\n💬 _Konjunktiv II – Höflichkeit_ – Mit dem Konjunktiv II kann man höflich bitten oder Wünsche ausdrücken.",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_077",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #77*\n\n*📘 Wort:* _Beispielwort 77_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 77\n*🇮🇷 فارسی:* ترجمه 77\n\n💬 _Beispielsatz mit Wort 77._",
-    "bild": "https://dein-server.de/bilder/wort_77.png",
-    "audio": "https://dein-server.de/audios/wort_77.mp3"
-  },
-  {
-    "id": "a1_wort_078",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #78*\n\n*📘 Wort:* _Beispielwort 78_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 78\n*🇮🇷 فارسی:* ترجمه 78\n\n💬 _Beispielsatz mit Wort 78._",
-    "bild": "https://dein-server.de/bilder/wort_78.png",
-    "audio": "https://dein-server.de/audios/wort_78.mp3"
-  },
-  {
-    "id": "a1_wort_079",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #79*\n\n*📘 Wort:* _Beispielwort 79_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 79\n*🇮🇷 فارسی:* ترجمه 79\n\n💬 _Beispielsatz mit Wort 79._",
-    "bild": "https://dein-server.de/bilder/wort_79.png",
-    "audio": "https://dein-server.de/audios/wort_79.mp3"
+    "id": "a2_grammatik_002",
+    "zeit": "08:00",
+    "niveau": "A2",
+    "text": "*[A2] Grammatik-Tipp*\n\n*📙 Begriff:* _Perfekt mit haben/sein_\n*📙 Bedeutung:* Verben mit Bewegung nehmen 'sein', andere 'haben'\n*🇮🇷 فارسی:* افعال حرکتی با 'sein' می‌آیند، بقیه با 'haben'\n\n💬 _Perfekt mit haben/sein_ – Verben mit Bewegung nehmen 'sein', andere 'haben'",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_080",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #80*\n\n*📘 Wort:* _Beispielwort 80_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 80\n*🇮🇷 فارسی:* ترجمه 80\n\n💬 _Beispielsatz mit Wort 80._",
-    "bild": "https://dein-server.de/bilder/wort_80.png",
-    "audio": "https://dein-server.de/audios/wort_80.mp3"
+    "id": "b1_grammatik_003",
+    "zeit": "10:00",
+    "niveau": "B1",
+    "text": "*[B1] Grammatik-Tipp*\n\n*📙 Begriff:* _Negation mit nicht/kein_\n*📙 Bedeutung:* 'nicht' für Verben und Adjektive, 'kein' für Nomen\n*🇮🇷 فارسی:* 'nicht' برای فعل‌ها و صفت‌ها و 'kein' برای اسم‌ها\n\n💬 _Negation mit nicht/kein_ – 'nicht' für Verben und Adjektive, 'kein' für Nomen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_081",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #81*\n\n*📘 Wort:* _Beispielwort 81_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 81\n*🇮🇷 فارسی:* ترجمه 81\n\n💬 _Beispielsatz mit Wort 81._",
-    "bild": "https://dein-server.de/bilder/wort_81.png",
-    "audio": "https://dein-server.de/audios/wort_81.mp3"
+    "id": "b2_grammatik_004",
+    "zeit": "12:00",
+    "niveau": "B2",
+    "text": "*[B2] Grammatik-Tipp*\n\n*📙 Begriff:* _Akkusativobjekt erkennen_\n*📙 Bedeutung:* Frage: Wen oder was?\n*🇮🇷 فارسی:* پرسش: چه کسی یا چه چیزی؟\n\n💬 _Akkusativobjekt erkennen_ – Frage: Wen oder was?",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_082",
-    "zeit": "06:00",
+    "id": "a1_grammatik_005",
+    "zeit": "14:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #82*\n\n*📘 Wort:* _Beispielwort 82_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 82\n*🇮🇷 فارسی:* ترجمه 82\n\n💬 _Beispielsatz mit Wort 82._",
-    "bild": "https://dein-server.de/bilder/wort_82.png",
-    "audio": "https://dein-server.de/audios/wort_82.mp3"
+    "text": "*[A1] Grammatik-Tipp*\n\n*📙 Begriff:* _Dativobjekt erkennen_\n*📙 Bedeutung:* Frage: Wem?\n*🇮🇷 فارسی:* پرسش: به چه کسی؟\n\n💬 _Dativobjekt erkennen_ – Frage: Wem?",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_083",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #83*\n\n*📘 Wort:* _Beispielwort 83_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 83\n*🇮🇷 فارسی:* ترجمه 83\n\n💬 _Beispielsatz mit Wort 83._",
-    "bild": "https://dein-server.de/bilder/wort_83.png",
-    "audio": "https://dein-server.de/audios/wort_83.mp3"
+    "id": "a2_grammatik_006",
+    "zeit": "16:00",
+    "niveau": "A2",
+    "text": "*[A2] Grammatik-Tipp*\n\n*📙 Begriff:* _Modalverben_\n*📙 Bedeutung:* dürfen, können, mögen, müssen, sollen, wollen\n*🇮🇷 فارسی:* افعال کمکی در آلمانی\n\n💬 _Modalverben_ – dürfen, können, mögen, müssen, sollen, wollen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_084",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #84*\n\n*📘 Wort:* _Beispielwort 84_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 84\n*🇮🇷 فارسی:* ترجمه 84\n\n💬 _Beispielsatz mit Wort 84._",
-    "bild": "https://dein-server.de/bilder/wort_84.png",
-    "audio": "https://dein-server.de/audios/wort_84.mp3"
+    "id": "b1_grammatik_007",
+    "zeit": "18:00",
+    "niveau": "B1",
+    "text": "*[B1] Grammatik-Tipp*\n\n*📙 Begriff:* _Relativsätze_\n*📙 Bedeutung:* Verb am Ende, Relativpronomen am Anfang\n*🇮🇷 فارسی:* جملات موصولی با فعل در پایان\n\n💬 _Relativsätze_ – Verb am Ende, Relativpronomen am Anfang",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_085",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #85*\n\n*📘 Wort:* _Beispielwort 85_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 85\n*🇮🇷 فارسی:* ترجمه 85\n\n💬 _Beispielsatz mit Wort 85._",
-    "bild": "https://dein-server.de/bilder/wort_85.png",
-    "audio": "https://dein-server.de/audios/wort_85.mp3"
+    "id": "b2_grammatik_008",
+    "zeit": "20:00",
+    "niveau": "B2",
+    "text": "*[B2] Grammatik-Tipp*\n\n*📙 Begriff:* _Trennbare Verben_\n*📙 Bedeutung:* z. B. aufstehen, anrufen – Präfix am Satzende\n*🇮🇷 فارسی:* افعال جداشدنی مانند 'aufstehen', 'anrufen'\n\n💬 _Trennbare Verben_ – z. B. aufstehen, anrufen – Präfix am Satzende",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_086",
-    "zeit": "13:00",
+    "id": "a1_grammatik_009",
+    "zeit": "22:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #86*\n\n*📘 Wort:* _Beispielwort 86_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 86\n*🇮🇷 فارسی:* ترجمه 86\n\n💬 _Beispielsatz mit Wort 86._",
-    "bild": "https://dein-server.de/bilder/wort_86.png",
-    "audio": "https://dein-server.de/audios/wort_86.mp3"
+    "text": "*[A1] Grammatik-Tipp*\n\n*📙 Begriff:* _Fragen mit W-Wörtern_\n*📙 Bedeutung:* Was, Wo, Wer, Wann, Warum\n*🇮🇷 فارسی:* سؤالات با کلمات پرسشی\n\n💬 _Fragen mit W-Wörtern_ – Was, Wo, Wer, Wann, Warum",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_087",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #87*\n\n*📘 Wort:* _Beispielwort 87_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 87\n*🇮🇷 فارسی:* ترجمه 87\n\n💬 _Beispielsatz mit Wort 87._",
-    "bild": "https://dein-server.de/bilder/wort_87.png",
-    "audio": "https://dein-server.de/audios/wort_87.mp3"
+    "id": "a2_grammatik_010",
+    "zeit": "00:00",
+    "niveau": "A2",
+    "text": "*[A2] Grammatik-Tipp*\n\n*📙 Begriff:* _Zukunft mit 'werden'_\n*📙 Bedeutung:* z. B. Ich werde gehen.\n*🇮🇷 فارسی:* آینده با فعل 'werden'\n\n💬 _Zukunft mit 'werden'_ – z. B. Ich werde gehen.",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_088",
+    "id": "a1_tipp_001",
     "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #88*\n\n*📘 Wort:* _Beispielwort 88_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 88\n*🇮🇷 فارسی:* ترجمه 88\n\n💬 _Beispielsatz mit Wort 88._",
-    "bild": "https://dein-server.de/bilder/wort_88.png",
-    "audio": "https://dein-server.de/audios/wort_88.mp3"
-  },
-  {
-    "id": "a1_wort_089",
-    "zeit": "13:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #89*\n\n*📘 Wort:* _Beispielwort 89_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 89\n*🇮🇷 فارسی:* ترجمه 89\n\n💬 _Beispielsatz mit Wort 89._",
-    "bild": "https://dein-server.de/bilder/wort_89.png",
-    "audio": "https://dein-server.de/audios/wort_89.mp3"
+    "text": "*[A1] Lerntipp*\n\n*💡 Begriff:* _Vokabeln laut sprechen_\n*📙 Bedeutung:* So merkst du sie dir besser!\n*🇮🇷 فارسی:* با صدای بلند لغات را بگو تا بهتر یادت بماند\n\n💬 _Vokabeln laut sprechen_ – So merkst du sie dir besser!",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_090",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #90*\n\n*📘 Wort:* _Beispielwort 90_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 90\n*🇮🇷 فارسی:* ترجمه 90\n\n💬 _Beispielsatz mit Wort 90._",
-    "bild": "https://dein-server.de/bilder/wort_90.png",
-    "audio": "https://dein-server.de/audios/wort_90.mp3"
-  },
-  {
-    "id": "a1_wort_091",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #91*\n\n*📘 Wort:* _Beispielwort 91_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 91\n*🇮🇷 فارسی:* ترجمه 91\n\n💬 _Beispielsatz mit Wort 91._",
-    "bild": "https://dein-server.de/bilder/wort_91.png",
-    "audio": "https://dein-server.de/audios/wort_91.mp3"
+    "id": "a2_tipp_002",
+    "zeit": "08:00",
+    "niveau": "A2",
+    "text": "*[A2] Lerntipp*\n\n*💡 Begriff:* _Täglich 10 Minuten üben_\n*📙 Bedeutung:* Regelmäßigkeit ist wichtiger als Dauer\n*🇮🇷 فارسی:* تمرین روزانه حتی کوتاه بهتر از هیچ است\n\n💬 _Täglich 10 Minuten üben_ – Regelmäßigkeit ist wichtiger als Dauer",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_092",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #92*\n\n*📘 Wort:* _Beispielwort 92_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 92\n*🇮🇷 فارسی:* ترجمه 92\n\n💬 _Beispielsatz mit Wort 92._",
-    "bild": "https://dein-server.de/bilder/wort_92.png",
-    "audio": "https://dein-server.de/audios/wort_92.mp3"
+    "id": "b1_tipp_003",
+    "zeit": "10:00",
+    "niveau": "B1",
+    "text": "*[B1] Lerntipp*\n\n*💡 Begriff:* _Mit Muttersprachlern sprechen_\n*📙 Bedeutung:* Sprache durch echte Gespräche lernen\n*🇮🇷 فارسی:* با افراد آلمانی صحبت کن تا بهتر یاد بگیری\n\n💬 _Mit Muttersprachlern sprechen_ – Sprache durch echte Gespräche lernen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_093",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #93*\n\n*📘 Wort:* _Beispielwort 93_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 93\n*🇮🇷 فارسی:* ترجمه 93\n\n💬 _Beispielsatz mit Wort 93._",
-    "bild": "https://dein-server.de/bilder/wort_93.png",
-    "audio": "https://dein-server.de/audios/wort_93.mp3"
+    "id": "b2_tipp_004",
+    "zeit": "12:00",
+    "niveau": "B2",
+    "text": "*[B2] Lerntipp*\n\n*💡 Begriff:* _Serien auf Deutsch schauen_\n*📙 Bedeutung:* Mit Untertiteln lernen\n*🇮🇷 فارسی:* سریال آلمانی با زیرنویس ببین\n\n💬 _Serien auf Deutsch schauen_ – Mit Untertiteln lernen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_094",
-    "zeit": "06:00",
+    "id": "a1_tipp_005",
+    "zeit": "14:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #94*\n\n*📘 Wort:* _Beispielwort 94_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 94\n*🇮🇷 فارسی:* ترجمه 94\n\n💬 _Beispielsatz mit Wort 94._",
-    "bild": "https://dein-server.de/bilder/wort_94.png",
-    "audio": "https://dein-server.de/audios/wort_94.mp3"
+    "text": "*[A1] Lerntipp*\n\n*💡 Begriff:* _Fehler machen ist okay_\n*📙 Bedeutung:* Nur wer spricht, lernt!\n*🇮🇷 فارسی:* اشتباه کردن بخشی از یادگیری است\n\n💬 _Fehler machen ist okay_ – Nur wer spricht, lernt!",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_095",
-    "zeit": "13:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #95*\n\n*📘 Wort:* _Beispielwort 95_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 95\n*🇮🇷 فارسی:* ترجمه 95\n\n💬 _Beispielsatz mit Wort 95._",
-    "bild": "https://dein-server.de/bilder/wort_95.png",
-    "audio": "https://dein-server.de/audios/wort_95.mp3"
+    "id": "a2_tipp_006",
+    "zeit": "16:00",
+    "niveau": "A2",
+    "text": "*[A2] Lerntipp*\n\n*💡 Begriff:* _Wörter mit Bildern merken_\n*📙 Bedeutung:* Visualisierung hilft beim Lernen\n*🇮🇷 فارسی:* با تصویر یاد گرفتن کمک می‌کند\n\n💬 _Wörter mit Bildern merken_ – Visualisierung hilft beim Lernen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_096",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #96*\n\n*📘 Wort:* _Beispielwort 96_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 96\n*🇮🇷 فارسی:* ترجمه 96\n\n💬 _Beispielsatz mit Wort 96._",
-    "bild": "https://dein-server.de/bilder/wort_96.png",
-    "audio": "https://dein-server.de/audios/wort_96.mp3"
+    "id": "b1_tipp_007",
+    "zeit": "18:00",
+    "niveau": "B1",
+    "text": "*[B1] Lerntipp*\n\n*💡 Begriff:* _Eine Sprachlern-App nutzen_\n*📙 Bedeutung:* z. B. Duolingo, Babbel\n*🇮🇷 فارسی:* از اپ‌های یادگیری استفاده کن\n\n💬 _Eine Sprachlern-App nutzen_ – z. B. Duolingo, Babbel",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_097",
-    "zeit": "06:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #97*\n\n*📘 Wort:* _Beispielwort 97_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 97\n*🇮🇷 فارسی:* ترجمه 97\n\n💬 _Beispielsatz mit Wort 97._",
-    "bild": "https://dein-server.de/bilder/wort_97.png",
-    "audio": "https://dein-server.de/audios/wort_97.mp3"
+    "id": "b2_tipp_008",
+    "zeit": "20:00",
+    "niveau": "B2",
+    "text": "*[B2] Lerntipp*\n\n*💡 Begriff:* _Tandem-Partner finden_\n*📙 Bedeutung:* Gegenseitig Sprache üben\n*🇮🇷 فارسی:* پارتنر زبان پیدا کن و تمرین کن\n\n💬 _Tandem-Partner finden_ – Gegenseitig Sprache üben",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_098",
-    "zeit": "13:00",
+    "id": "a1_tipp_009",
+    "zeit": "22:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #98*\n\n*📘 Wort:* _Beispielwort 98_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 98\n*🇮🇷 فارسی:* ترجمه 98\n\n💬 _Beispielsatz mit Wort 98._",
-    "bild": "https://dein-server.de/bilder/wort_98.png",
-    "audio": "https://dein-server.de/audios/wort_98.mp3"
+    "text": "*[A1] Lerntipp*\n\n*💡 Begriff:* _Sprach-Tagebuch führen_\n*📙 Bedeutung:* Täglich einen Satz aufschreiben\n*🇮🇷 فارسی:* هر روز یک جمله بنویس\n\n💬 _Sprach-Tagebuch führen_ – Täglich einen Satz aufschreiben",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_099",
-    "zeit": "17:00",
-    "niveau": "A1",
-    "text": "*[A1] Wort des Tages #99*\n\n*📘 Wort:* _Beispielwort 99_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 99\n*🇮🇷 فارسی:* ترجمه 99\n\n💬 _Beispielsatz mit Wort 99._",
-    "bild": "https://dein-server.de/bilder/wort_99.png",
-    "audio": "https://dein-server.de/audios/wort_99.mp3"
+    "id": "a2_tipp_010",
+    "zeit": "00:00",
+    "niveau": "A2",
+    "text": "*[A2] Lerntipp*\n\n*💡 Begriff:* _Post-its in der Wohnung_\n*📙 Bedeutung:* Beschrifte Gegenstände mit Namen\n*🇮🇷 فارسی:* برچسب روی وسایل خانه بزن\n\n💬 _Post-its in der Wohnung_ – Beschrifte Gegenstände mit Namen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_100",
+    "id": "a1_satz_001",
     "zeit": "06:00",
     "niveau": "A1",
-    "text": "*[A1] Wort des Tages #100*\n\n*📘 Wort:* _Beispielwort 100_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 100\n*🇮🇷 فارسی:* ترجمه 100\n\n💬 _Beispielsatz mit Wort 100._",
-    "bild": "https://dein-server.de/bilder/wort_100.png",
-    "audio": "https://dein-server.de/audios/wort_100.mp3"
+    "text": "*[A1] Beispielsatz*\n\n*✏️ Begriff:* _Ich gehe heute ins Kino._\n*📙 Bedeutung:* Heute = Zeitangabe\n*🇮🇷 فارسی:* من امروز به سینما می‌روم\n\n💬 _Ich gehe heute ins Kino._ – Heute = Zeitangabe",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_101",
-    "zeit": "13:00",
+    "id": "a2_satz_002",
+    "zeit": "08:00",
     "niveau": "A2",
-    "text": "*[A2] Wort des Tages #101*\n\n*📘 Wort:* _Beispielwort 101_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 101\n*🇮🇷 فارسی:* ترجمه 101\n\n💬 _Beispielsatz mit Wort 101._",
-    "bild": "https://dein-server.de/bilder/wort_101.png",
-    "audio": "https://dein-server.de/audios/wort_101.mp3"
+    "text": "*[A2] Beispielsatz*\n\n*✏️ Begriff:* _Er hat einen Hund._\n*📙 Bedeutung:* Akkusativobjekt = einen Hund\n*🇮🇷 فارسی:* او یک سگ دارد\n\n💬 _Er hat einen Hund._ – Akkusativobjekt = einen Hund",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_102",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #102*\n\n*📘 Wort:* _Beispielwort 102_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 102\n*🇮🇷 فارسی:* ترجمه 102\n\n💬 _Beispielsatz mit Wort 102._",
-    "bild": "https://dein-server.de/bilder/wort_102.png",
-    "audio": "https://dein-server.de/audios/wort_102.mp3"
+    "id": "b1_satz_003",
+    "zeit": "10:00",
+    "niveau": "B1",
+    "text": "*[B1] Beispielsatz*\n\n*✏️ Begriff:* _Wir wohnen in Berlin._\n*📙 Bedeutung:* Ort = in Berlin\n*🇮🇷 فارسی:* ما در برلین زندگی می‌کنیم\n\n💬 _Wir wohnen in Berlin._ – Ort = in Berlin",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_103",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #103*\n\n*📘 Wort:* _Beispielwort 103_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 103\n*🇮🇷 فارسی:* ترجمه 103\n\n💬 _Beispielsatz mit Wort 103._",
-    "bild": "https://dein-server.de/bilder/wort_103.png",
-    "audio": "https://dein-server.de/audios/wort_103.mp3"
+    "id": "b2_satz_004",
+    "zeit": "12:00",
+    "niveau": "B2",
+    "text": "*[B2] Beispielsatz*\n\n*✏️ Begriff:* _Sie liest ein Buch._\n*📙 Bedeutung:* Verb = liest\n*🇮🇷 فارسی:* او یک کتاب می‌خواند\n\n💬 _Sie liest ein Buch._ – Verb = liest",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_104",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #104*\n\n*📘 Wort:* _Beispielwort 104_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 104\n*🇮🇷 فارسی:* ترجمه 104\n\n💬 _Beispielsatz mit Wort 104._",
-    "bild": "https://dein-server.de/bilder/wort_104.png",
-    "audio": "https://dein-server.de/audios/wort_104.mp3"
+    "id": "a1_satz_005",
+    "zeit": "14:00",
+    "niveau": "A1",
+    "text": "*[A1] Beispielsatz*\n\n*✏️ Begriff:* _Ich trinke gern Kaffee._\n*📙 Bedeutung:* gern = gerne\n*🇮🇷 فارسی:* من قهوه دوست دارم\n\n💬 _Ich trinke gern Kaffee._ – gern = gerne",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_105",
-    "zeit": "17:00",
+    "id": "a2_satz_006",
+    "zeit": "16:00",
     "niveau": "A2",
-    "text": "*[A2] Wort des Tages #105*\n\n*📘 Wort:* _Beispielwort 105_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 105\n*🇮🇷 فارسی:* ترجمه 105\n\n💬 _Beispielsatz mit Wort 105._",
-    "bild": "https://dein-server.de/bilder/wort_105.png",
-    "audio": "https://dein-server.de/audios/wort_105.mp3"
+    "text": "*[A2] Beispielsatz*\n\n*✏️ Begriff:* _Du spielst Fußball._\n*📙 Bedeutung:* Sportart = Fußball\n*🇮🇷 فارسی:* تو فوتبال بازی می‌کنی\n\n💬 _Du spielst Fußball._ – Sportart = Fußball",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_106",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #106*\n\n*📘 Wort:* _Beispielwort 106_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 106\n*🇮🇷 فارسی:* ترجمه 106\n\n💬 _Beispielsatz mit Wort 106._",
-    "bild": "https://dein-server.de/bilder/wort_106.png",
-    "audio": "https://dein-server.de/audios/wort_106.mp3"
+    "id": "b1_satz_007",
+    "zeit": "18:00",
+    "niveau": "B1",
+    "text": "*[B1] Beispielsatz*\n\n*✏️ Begriff:* _Ich mag Musik._\n*📙 Bedeutung:* mögen = mögen\n*🇮🇷 فارسی:* من موسیقی دوست دارم\n\n💬 _Ich mag Musik._ – mögen = mögen",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_107",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #107*\n\n*📘 Wort:* _Beispielwort 107_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 107\n*🇮🇷 فارسی:* ترجمه 107\n\n💬 _Beispielsatz mit Wort 107._",
-    "bild": "https://dein-server.de/bilder/wort_107.png",
-    "audio": "https://dein-server.de/audios/wort_107.mp3"
+    "id": "b2_satz_008",
+    "zeit": "20:00",
+    "niveau": "B2",
+    "text": "*[B2] Beispielsatz*\n\n*✏️ Begriff:* _Wir lernen Deutsch._\n*📙 Bedeutung:* lernen = Verb\n*🇮🇷 فارسی:* ما آلمانی یاد می‌گیریم\n\n💬 _Wir lernen Deutsch._ – lernen = Verb",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_108",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #108*\n\n*📘 Wort:* _Beispielwort 108_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 108\n*🇮🇷 فارسی:* ترجمه 108\n\n💬 _Beispielsatz mit Wort 108._",
-    "bild": "https://dein-server.de/bilder/wort_108.png",
-    "audio": "https://dein-server.de/audios/wort_108.mp3"
+    "id": "a1_satz_009",
+    "zeit": "22:00",
+    "niveau": "A1",
+    "text": "*[A1] Beispielsatz*\n\n*✏️ Begriff:* _Es regnet heute._\n*📙 Bedeutung:* Es = unpersönliches Subjekt\n*🇮🇷 فارسی:* امروز باران می‌بارد\n\n💬 _Es regnet heute._ – Es = unpersönliches Subjekt",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   },
   {
-    "id": "a1_wort_109",
-    "zeit": "06:00",
+    "id": "a2_satz_010",
+    "zeit": "00:00",
     "niveau": "A2",
-    "text": "*[A2] Wort des Tages #109*\n\n*📘 Wort:* _Beispielwort 109_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 109\n*🇮🇷 فارسی:* ترجمه 109\n\n💬 _Beispielsatz mit Wort 109._",
-    "bild": "https://dein-server.de/bilder/wort_109.png",
-    "audio": "https://dein-server.de/audios/wort_109.mp3"
-  },
-  {
-    "id": "a1_wort_110",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #110*\n\n*📘 Wort:* _Beispielwort 110_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 110\n*🇮🇷 فارسی:* ترجمه 110\n\n💬 _Beispielsatz mit Wort 110._",
-    "bild": "https://dein-server.de/bilder/wort_110.png",
-    "audio": "https://dein-server.de/audios/wort_110.mp3"
-  },
-  {
-    "id": "a1_wort_111",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #111*\n\n*📘 Wort:* _Beispielwort 111_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 111\n*🇮🇷 فارسی:* ترجمه 111\n\n💬 _Beispielsatz mit Wort 111._",
-    "bild": "https://dein-server.de/bilder/wort_111.png",
-    "audio": "https://dein-server.de/audios/wort_111.mp3"
-  },
-  {
-    "id": "a1_wort_112",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #112*\n\n*📘 Wort:* _Beispielwort 112_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 112\n*🇮🇷 فارسی:* ترجمه 112\n\n💬 _Beispielsatz mit Wort 112._",
-    "bild": "https://dein-server.de/bilder/wort_112.png",
-    "audio": "https://dein-server.de/audios/wort_112.mp3"
-  },
-  {
-    "id": "a1_wort_113",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #113*\n\n*📘 Wort:* _Beispielwort 113_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 113\n*🇮🇷 فارسی:* ترجمه 113\n\n💬 _Beispielsatz mit Wort 113._",
-    "bild": "https://dein-server.de/bilder/wort_113.png",
-    "audio": "https://dein-server.de/audios/wort_113.mp3"
-  },
-  {
-    "id": "a1_wort_114",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #114*\n\n*📘 Wort:* _Beispielwort 114_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 114\n*🇮🇷 فارسی:* ترجمه 114\n\n💬 _Beispielsatz mit Wort 114._",
-    "bild": "https://dein-server.de/bilder/wort_114.png",
-    "audio": "https://dein-server.de/audios/wort_114.mp3"
-  },
-  {
-    "id": "a1_wort_115",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #115*\n\n*📘 Wort:* _Beispielwort 115_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 115\n*🇮🇷 فارسی:* ترجمه 115\n\n💬 _Beispielsatz mit Wort 115._",
-    "bild": "https://dein-server.de/bilder/wort_115.png",
-    "audio": "https://dein-server.de/audios/wort_115.mp3"
-  },
-  {
-    "id": "a1_wort_116",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #116*\n\n*📘 Wort:* _Beispielwort 116_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 116\n*🇮🇷 فارسی:* ترجمه 116\n\n💬 _Beispielsatz mit Wort 116._",
-    "bild": "https://dein-server.de/bilder/wort_116.png",
-    "audio": "https://dein-server.de/audios/wort_116.mp3"
-  },
-  {
-    "id": "a1_wort_117",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #117*\n\n*📘 Wort:* _Beispielwort 117_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 117\n*🇮🇷 فارسی:* ترجمه 117\n\n💬 _Beispielsatz mit Wort 117._",
-    "bild": "https://dein-server.de/bilder/wort_117.png",
-    "audio": "https://dein-server.de/audios/wort_117.mp3"
-  },
-  {
-    "id": "a1_wort_118",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #118*\n\n*📘 Wort:* _Beispielwort 118_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 118\n*🇮🇷 فارسی:* ترجمه 118\n\n💬 _Beispielsatz mit Wort 118._",
-    "bild": "https://dein-server.de/bilder/wort_118.png",
-    "audio": "https://dein-server.de/audios/wort_118.mp3"
-  },
-  {
-    "id": "a1_wort_119",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #119*\n\n*📘 Wort:* _Beispielwort 119_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 119\n*🇮🇷 فارسی:* ترجمه 119\n\n💬 _Beispielsatz mit Wort 119._",
-    "bild": "https://dein-server.de/bilder/wort_119.png",
-    "audio": "https://dein-server.de/audios/wort_119.mp3"
-  },
-  {
-    "id": "a1_wort_120",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #120*\n\n*📘 Wort:* _Beispielwort 120_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 120\n*🇮🇷 فارسی:* ترجمه 120\n\n💬 _Beispielsatz mit Wort 120._",
-    "bild": "https://dein-server.de/bilder/wort_120.png",
-    "audio": "https://dein-server.de/audios/wort_120.mp3"
-  },
-  {
-    "id": "a1_wort_121",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #121*\n\n*📘 Wort:* _Beispielwort 121_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 121\n*🇮🇷 فارسی:* ترجمه 121\n\n💬 _Beispielsatz mit Wort 121._",
-    "bild": "https://dein-server.de/bilder/wort_121.png",
-    "audio": "https://dein-server.de/audios/wort_121.mp3"
-  },
-  {
-    "id": "a1_wort_122",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #122*\n\n*📘 Wort:* _Beispielwort 122_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 122\n*🇮🇷 فارسی:* ترجمه 122\n\n💬 _Beispielsatz mit Wort 122._",
-    "bild": "https://dein-server.de/bilder/wort_122.png",
-    "audio": "https://dein-server.de/audios/wort_122.mp3"
-  },
-  {
-    "id": "a1_wort_123",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #123*\n\n*📘 Wort:* _Beispielwort 123_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 123\n*🇮🇷 فارسی:* ترجمه 123\n\n💬 _Beispielsatz mit Wort 123._",
-    "bild": "https://dein-server.de/bilder/wort_123.png",
-    "audio": "https://dein-server.de/audios/wort_123.mp3"
-  },
-  {
-    "id": "a1_wort_124",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #124*\n\n*📘 Wort:* _Beispielwort 124_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 124\n*🇮🇷 فارسی:* ترجمه 124\n\n💬 _Beispielsatz mit Wort 124._",
-    "bild": "https://dein-server.de/bilder/wort_124.png",
-    "audio": "https://dein-server.de/audios/wort_124.mp3"
-  },
-  {
-    "id": "a1_wort_125",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #125*\n\n*📘 Wort:* _Beispielwort 125_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 125\n*🇮🇷 فارسی:* ترجمه 125\n\n💬 _Beispielsatz mit Wort 125._",
-    "bild": "https://dein-server.de/bilder/wort_125.png",
-    "audio": "https://dein-server.de/audios/wort_125.mp3"
-  },
-  {
-    "id": "a1_wort_126",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #126*\n\n*📘 Wort:* _Beispielwort 126_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 126\n*🇮🇷 فارسی:* ترجمه 126\n\n💬 _Beispielsatz mit Wort 126._",
-    "bild": "https://dein-server.de/bilder/wort_126.png",
-    "audio": "https://dein-server.de/audios/wort_126.mp3"
-  },
-  {
-    "id": "a1_wort_127",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #127*\n\n*📘 Wort:* _Beispielwort 127_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 127\n*🇮🇷 فارسی:* ترجمه 127\n\n💬 _Beispielsatz mit Wort 127._",
-    "bild": "https://dein-server.de/bilder/wort_127.png",
-    "audio": "https://dein-server.de/audios/wort_127.mp3"
-  },
-  {
-    "id": "a1_wort_128",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #128*\n\n*📘 Wort:* _Beispielwort 128_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 128\n*🇮🇷 فارسی:* ترجمه 128\n\n💬 _Beispielsatz mit Wort 128._",
-    "bild": "https://dein-server.de/bilder/wort_128.png",
-    "audio": "https://dein-server.de/audios/wort_128.mp3"
-  },
-  {
-    "id": "a1_wort_129",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #129*\n\n*📘 Wort:* _Beispielwort 129_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 129\n*🇮🇷 فارسی:* ترجمه 129\n\n💬 _Beispielsatz mit Wort 129._",
-    "bild": "https://dein-server.de/bilder/wort_129.png",
-    "audio": "https://dein-server.de/audios/wort_129.mp3"
-  },
-  {
-    "id": "a1_wort_130",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #130*\n\n*📘 Wort:* _Beispielwort 130_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 130\n*🇮🇷 فارسی:* ترجمه 130\n\n💬 _Beispielsatz mit Wort 130._",
-    "bild": "https://dein-server.de/bilder/wort_130.png",
-    "audio": "https://dein-server.de/audios/wort_130.mp3"
-  },
-  {
-    "id": "a1_wort_131",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #131*\n\n*📘 Wort:* _Beispielwort 131_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 131\n*🇮🇷 فارسی:* ترجمه 131\n\n💬 _Beispielsatz mit Wort 131._",
-    "bild": "https://dein-server.de/bilder/wort_131.png",
-    "audio": "https://dein-server.de/audios/wort_131.mp3"
-  },
-  {
-    "id": "a1_wort_132",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #132*\n\n*📘 Wort:* _Beispielwort 132_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 132\n*🇮🇷 فارسی:* ترجمه 132\n\n💬 _Beispielsatz mit Wort 132._",
-    "bild": "https://dein-server.de/bilder/wort_132.png",
-    "audio": "https://dein-server.de/audios/wort_132.mp3"
-  },
-  {
-    "id": "a1_wort_133",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #133*\n\n*📘 Wort:* _Beispielwort 133_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 133\n*🇮🇷 فارسی:* ترجمه 133\n\n💬 _Beispielsatz mit Wort 133._",
-    "bild": "https://dein-server.de/bilder/wort_133.png",
-    "audio": "https://dein-server.de/audios/wort_133.mp3"
-  },
-  {
-    "id": "a1_wort_134",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #134*\n\n*📘 Wort:* _Beispielwort 134_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 134\n*🇮🇷 فارسی:* ترجمه 134\n\n💬 _Beispielsatz mit Wort 134._",
-    "bild": "https://dein-server.de/bilder/wort_134.png",
-    "audio": "https://dein-server.de/audios/wort_134.mp3"
-  },
-  {
-    "id": "a1_wort_135",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #135*\n\n*📘 Wort:* _Beispielwort 135_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 135\n*🇮🇷 فارسی:* ترجمه 135\n\n💬 _Beispielsatz mit Wort 135._",
-    "bild": "https://dein-server.de/bilder/wort_135.png",
-    "audio": "https://dein-server.de/audios/wort_135.mp3"
-  },
-  {
-    "id": "a1_wort_136",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #136*\n\n*📘 Wort:* _Beispielwort 136_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 136\n*🇮🇷 فارسی:* ترجمه 136\n\n💬 _Beispielsatz mit Wort 136._",
-    "bild": "https://dein-server.de/bilder/wort_136.png",
-    "audio": "https://dein-server.de/audios/wort_136.mp3"
-  },
-  {
-    "id": "a1_wort_137",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #137*\n\n*📘 Wort:* _Beispielwort 137_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 137\n*🇮🇷 فارسی:* ترجمه 137\n\n💬 _Beispielsatz mit Wort 137._",
-    "bild": "https://dein-server.de/bilder/wort_137.png",
-    "audio": "https://dein-server.de/audios/wort_137.mp3"
-  },
-  {
-    "id": "a1_wort_138",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #138*\n\n*📘 Wort:* _Beispielwort 138_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 138\n*🇮🇷 فارسی:* ترجمه 138\n\n💬 _Beispielsatz mit Wort 138._",
-    "bild": "https://dein-server.de/bilder/wort_138.png",
-    "audio": "https://dein-server.de/audios/wort_138.mp3"
-  },
-  {
-    "id": "a1_wort_139",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #139*\n\n*📘 Wort:* _Beispielwort 139_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 139\n*🇮🇷 فارسی:* ترجمه 139\n\n💬 _Beispielsatz mit Wort 139._",
-    "bild": "https://dein-server.de/bilder/wort_139.png",
-    "audio": "https://dein-server.de/audios/wort_139.mp3"
-  },
-  {
-    "id": "a1_wort_140",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #140*\n\n*📘 Wort:* _Beispielwort 140_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 140\n*🇮🇷 فارسی:* ترجمه 140\n\n💬 _Beispielsatz mit Wort 140._",
-    "bild": "https://dein-server.de/bilder/wort_140.png",
-    "audio": "https://dein-server.de/audios/wort_140.mp3"
-  },
-  {
-    "id": "a1_wort_141",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #141*\n\n*📘 Wort:* _Beispielwort 141_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 141\n*🇮🇷 فارسی:* ترجمه 141\n\n💬 _Beispielsatz mit Wort 141._",
-    "bild": "https://dein-server.de/bilder/wort_141.png",
-    "audio": "https://dein-server.de/audios/wort_141.mp3"
-  },
-  {
-    "id": "a1_wort_142",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #142*\n\n*📘 Wort:* _Beispielwort 142_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 142\n*🇮🇷 فارسی:* ترجمه 142\n\n💬 _Beispielsatz mit Wort 142._",
-    "bild": "https://dein-server.de/bilder/wort_142.png",
-    "audio": "https://dein-server.de/audios/wort_142.mp3"
-  },
-  {
-    "id": "a1_wort_143",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #143*\n\n*📘 Wort:* _Beispielwort 143_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 143\n*🇮🇷 فارسی:* ترجمه 143\n\n💬 _Beispielsatz mit Wort 143._",
-    "bild": "https://dein-server.de/bilder/wort_143.png",
-    "audio": "https://dein-server.de/audios/wort_143.mp3"
-  },
-  {
-    "id": "a1_wort_144",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #144*\n\n*📘 Wort:* _Beispielwort 144_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 144\n*🇮🇷 فارسی:* ترجمه 144\n\n💬 _Beispielsatz mit Wort 144._",
-    "bild": "https://dein-server.de/bilder/wort_144.png",
-    "audio": "https://dein-server.de/audios/wort_144.mp3"
-  },
-  {
-    "id": "a1_wort_145",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #145*\n\n*📘 Wort:* _Beispielwort 145_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 145\n*🇮🇷 فارسی:* ترجمه 145\n\n💬 _Beispielsatz mit Wort 145._",
-    "bild": "https://dein-server.de/bilder/wort_145.png",
-    "audio": "https://dein-server.de/audios/wort_145.mp3"
-  },
-  {
-    "id": "a1_wort_146",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #146*\n\n*📘 Wort:* _Beispielwort 146_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 146\n*🇮🇷 فارسی:* ترجمه 146\n\n💬 _Beispielsatz mit Wort 146._",
-    "bild": "https://dein-server.de/bilder/wort_146.png",
-    "audio": "https://dein-server.de/audios/wort_146.mp3"
-  },
-  {
-    "id": "a1_wort_147",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #147*\n\n*📘 Wort:* _Beispielwort 147_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 147\n*🇮🇷 فارسی:* ترجمه 147\n\n💬 _Beispielsatz mit Wort 147._",
-    "bild": "https://dein-server.de/bilder/wort_147.png",
-    "audio": "https://dein-server.de/audios/wort_147.mp3"
-  },
-  {
-    "id": "a1_wort_148",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #148*\n\n*📘 Wort:* _Beispielwort 148_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 148\n*🇮🇷 فارسی:* ترجمه 148\n\n💬 _Beispielsatz mit Wort 148._",
-    "bild": "https://dein-server.de/bilder/wort_148.png",
-    "audio": "https://dein-server.de/audios/wort_148.mp3"
-  },
-  {
-    "id": "a1_wort_149",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #149*\n\n*📘 Wort:* _Beispielwort 149_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 149\n*🇮🇷 فارسی:* ترجمه 149\n\n💬 _Beispielsatz mit Wort 149._",
-    "bild": "https://dein-server.de/bilder/wort_149.png",
-    "audio": "https://dein-server.de/audios/wort_149.mp3"
-  },
-  {
-    "id": "a1_wort_150",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #150*\n\n*📘 Wort:* _Beispielwort 150_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 150\n*🇮🇷 فارسی:* ترجمه 150\n\n💬 _Beispielsatz mit Wort 150._",
-    "bild": "https://dein-server.de/bilder/wort_150.png",
-    "audio": "https://dein-server.de/audios/wort_150.mp3"
-  },
-  {
-    "id": "a1_wort_151",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #151*\n\n*📘 Wort:* _Beispielwort 151_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 151\n*🇮🇷 فارسی:* ترجمه 151\n\n💬 _Beispielsatz mit Wort 151._",
-    "bild": "https://dein-server.de/bilder/wort_151.png",
-    "audio": "https://dein-server.de/audios/wort_151.mp3"
-  },
-  {
-    "id": "a1_wort_152",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #152*\n\n*📘 Wort:* _Beispielwort 152_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 152\n*🇮🇷 فارسی:* ترجمه 152\n\n💬 _Beispielsatz mit Wort 152._",
-    "bild": "https://dein-server.de/bilder/wort_152.png",
-    "audio": "https://dein-server.de/audios/wort_152.mp3"
-  },
-  {
-    "id": "a1_wort_153",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #153*\n\n*📘 Wort:* _Beispielwort 153_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 153\n*🇮🇷 فارسی:* ترجمه 153\n\n💬 _Beispielsatz mit Wort 153._",
-    "bild": "https://dein-server.de/bilder/wort_153.png",
-    "audio": "https://dein-server.de/audios/wort_153.mp3"
-  },
-  {
-    "id": "a1_wort_154",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #154*\n\n*📘 Wort:* _Beispielwort 154_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 154\n*🇮🇷 فارسی:* ترجمه 154\n\n💬 _Beispielsatz mit Wort 154._",
-    "bild": "https://dein-server.de/bilder/wort_154.png",
-    "audio": "https://dein-server.de/audios/wort_154.mp3"
-  },
-  {
-    "id": "a1_wort_155",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #155*\n\n*📘 Wort:* _Beispielwort 155_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 155\n*🇮🇷 فارسی:* ترجمه 155\n\n💬 _Beispielsatz mit Wort 155._",
-    "bild": "https://dein-server.de/bilder/wort_155.png",
-    "audio": "https://dein-server.de/audios/wort_155.mp3"
-  },
-  {
-    "id": "a1_wort_156",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #156*\n\n*📘 Wort:* _Beispielwort 156_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 156\n*🇮🇷 فارسی:* ترجمه 156\n\n💬 _Beispielsatz mit Wort 156._",
-    "bild": "https://dein-server.de/bilder/wort_156.png",
-    "audio": "https://dein-server.de/audios/wort_156.mp3"
-  },
-  {
-    "id": "a1_wort_157",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #157*\n\n*📘 Wort:* _Beispielwort 157_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 157\n*🇮🇷 فارسی:* ترجمه 157\n\n💬 _Beispielsatz mit Wort 157._",
-    "bild": "https://dein-server.de/bilder/wort_157.png",
-    "audio": "https://dein-server.de/audios/wort_157.mp3"
-  },
-  {
-    "id": "a1_wort_158",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #158*\n\n*📘 Wort:* _Beispielwort 158_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 158\n*🇮🇷 فارسی:* ترجمه 158\n\n💬 _Beispielsatz mit Wort 158._",
-    "bild": "https://dein-server.de/bilder/wort_158.png",
-    "audio": "https://dein-server.de/audios/wort_158.mp3"
-  },
-  {
-    "id": "a1_wort_159",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #159*\n\n*📘 Wort:* _Beispielwort 159_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 159\n*🇮🇷 فارسی:* ترجمه 159\n\n💬 _Beispielsatz mit Wort 159._",
-    "bild": "https://dein-server.de/bilder/wort_159.png",
-    "audio": "https://dein-server.de/audios/wort_159.mp3"
-  },
-  {
-    "id": "a1_wort_160",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #160*\n\n*📘 Wort:* _Beispielwort 160_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 160\n*🇮🇷 فارسی:* ترجمه 160\n\n💬 _Beispielsatz mit Wort 160._",
-    "bild": "https://dein-server.de/bilder/wort_160.png",
-    "audio": "https://dein-server.de/audios/wort_160.mp3"
-  },
-  {
-    "id": "a1_wort_161",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #161*\n\n*📘 Wort:* _Beispielwort 161_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 161\n*🇮🇷 فارسی:* ترجمه 161\n\n💬 _Beispielsatz mit Wort 161._",
-    "bild": "https://dein-server.de/bilder/wort_161.png",
-    "audio": "https://dein-server.de/audios/wort_161.mp3"
-  },
-  {
-    "id": "a1_wort_162",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #162*\n\n*📘 Wort:* _Beispielwort 162_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 162\n*🇮🇷 فارسی:* ترجمه 162\n\n💬 _Beispielsatz mit Wort 162._",
-    "bild": "https://dein-server.de/bilder/wort_162.png",
-    "audio": "https://dein-server.de/audios/wort_162.mp3"
-  },
-  {
-    "id": "a1_wort_163",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #163*\n\n*📘 Wort:* _Beispielwort 163_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 163\n*🇮🇷 فارسی:* ترجمه 163\n\n💬 _Beispielsatz mit Wort 163._",
-    "bild": "https://dein-server.de/bilder/wort_163.png",
-    "audio": "https://dein-server.de/audios/wort_163.mp3"
-  },
-  {
-    "id": "a1_wort_164",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #164*\n\n*📘 Wort:* _Beispielwort 164_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 164\n*🇮🇷 فارسی:* ترجمه 164\n\n💬 _Beispielsatz mit Wort 164._",
-    "bild": "https://dein-server.de/bilder/wort_164.png",
-    "audio": "https://dein-server.de/audios/wort_164.mp3"
-  },
-  {
-    "id": "a1_wort_165",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #165*\n\n*📘 Wort:* _Beispielwort 165_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 165\n*🇮🇷 فارسی:* ترجمه 165\n\n💬 _Beispielsatz mit Wort 165._",
-    "bild": "https://dein-server.de/bilder/wort_165.png",
-    "audio": "https://dein-server.de/audios/wort_165.mp3"
-  },
-  {
-    "id": "a1_wort_166",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #166*\n\n*📘 Wort:* _Beispielwort 166_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 166\n*🇮🇷 فارسی:* ترجمه 166\n\n💬 _Beispielsatz mit Wort 166._",
-    "bild": "https://dein-server.de/bilder/wort_166.png",
-    "audio": "https://dein-server.de/audios/wort_166.mp3"
-  },
-  {
-    "id": "a1_wort_167",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #167*\n\n*📘 Wort:* _Beispielwort 167_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 167\n*🇮🇷 فارسی:* ترجمه 167\n\n💬 _Beispielsatz mit Wort 167._",
-    "bild": "https://dein-server.de/bilder/wort_167.png",
-    "audio": "https://dein-server.de/audios/wort_167.mp3"
-  },
-  {
-    "id": "a1_wort_168",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #168*\n\n*📘 Wort:* _Beispielwort 168_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 168\n*🇮🇷 فارسی:* ترجمه 168\n\n💬 _Beispielsatz mit Wort 168._",
-    "bild": "https://dein-server.de/bilder/wort_168.png",
-    "audio": "https://dein-server.de/audios/wort_168.mp3"
-  },
-  {
-    "id": "a1_wort_169",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #169*\n\n*📘 Wort:* _Beispielwort 169_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 169\n*🇮🇷 فارسی:* ترجمه 169\n\n💬 _Beispielsatz mit Wort 169._",
-    "bild": "https://dein-server.de/bilder/wort_169.png",
-    "audio": "https://dein-server.de/audios/wort_169.mp3"
-  },
-  {
-    "id": "a1_wort_170",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #170*\n\n*📘 Wort:* _Beispielwort 170_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 170\n*🇮🇷 فارسی:* ترجمه 170\n\n💬 _Beispielsatz mit Wort 170._",
-    "bild": "https://dein-server.de/bilder/wort_170.png",
-    "audio": "https://dein-server.de/audios/wort_170.mp3"
-  },
-  {
-    "id": "a1_wort_171",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #171*\n\n*📘 Wort:* _Beispielwort 171_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 171\n*🇮🇷 فارسی:* ترجمه 171\n\n💬 _Beispielsatz mit Wort 171._",
-    "bild": "https://dein-server.de/bilder/wort_171.png",
-    "audio": "https://dein-server.de/audios/wort_171.mp3"
-  },
-  {
-    "id": "a1_wort_172",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #172*\n\n*📘 Wort:* _Beispielwort 172_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 172\n*🇮🇷 فارسی:* ترجمه 172\n\n💬 _Beispielsatz mit Wort 172._",
-    "bild": "https://dein-server.de/bilder/wort_172.png",
-    "audio": "https://dein-server.de/audios/wort_172.mp3"
-  },
-  {
-    "id": "a1_wort_173",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #173*\n\n*📘 Wort:* _Beispielwort 173_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 173\n*🇮🇷 فارسی:* ترجمه 173\n\n💬 _Beispielsatz mit Wort 173._",
-    "bild": "https://dein-server.de/bilder/wort_173.png",
-    "audio": "https://dein-server.de/audios/wort_173.mp3"
-  },
-  {
-    "id": "a1_wort_174",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #174*\n\n*📘 Wort:* _Beispielwort 174_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 174\n*🇮🇷 فارسی:* ترجمه 174\n\n💬 _Beispielsatz mit Wort 174._",
-    "bild": "https://dein-server.de/bilder/wort_174.png",
-    "audio": "https://dein-server.de/audios/wort_174.mp3"
-  },
-  {
-    "id": "a1_wort_175",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #175*\n\n*📘 Wort:* _Beispielwort 175_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 175\n*🇮🇷 فارسی:* ترجمه 175\n\n💬 _Beispielsatz mit Wort 175._",
-    "bild": "https://dein-server.de/bilder/wort_175.png",
-    "audio": "https://dein-server.de/audios/wort_175.mp3"
-  },
-  {
-    "id": "a1_wort_176",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #176*\n\n*📘 Wort:* _Beispielwort 176_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 176\n*🇮🇷 فارسی:* ترجمه 176\n\n💬 _Beispielsatz mit Wort 176._",
-    "bild": "https://dein-server.de/bilder/wort_176.png",
-    "audio": "https://dein-server.de/audios/wort_176.mp3"
-  },
-  {
-    "id": "a1_wort_177",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #177*\n\n*📘 Wort:* _Beispielwort 177_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 177\n*🇮🇷 فارسی:* ترجمه 177\n\n💬 _Beispielsatz mit Wort 177._",
-    "bild": "https://dein-server.de/bilder/wort_177.png",
-    "audio": "https://dein-server.de/audios/wort_177.mp3"
-  },
-  {
-    "id": "a1_wort_178",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #178*\n\n*📘 Wort:* _Beispielwort 178_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 178\n*🇮🇷 فارسی:* ترجمه 178\n\n💬 _Beispielsatz mit Wort 178._",
-    "bild": "https://dein-server.de/bilder/wort_178.png",
-    "audio": "https://dein-server.de/audios/wort_178.mp3"
-  },
-  {
-    "id": "a1_wort_179",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #179*\n\n*📘 Wort:* _Beispielwort 179_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 179\n*🇮🇷 فارسی:* ترجمه 179\n\n💬 _Beispielsatz mit Wort 179._",
-    "bild": "https://dein-server.de/bilder/wort_179.png",
-    "audio": "https://dein-server.de/audios/wort_179.mp3"
-  },
-  {
-    "id": "a1_wort_180",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #180*\n\n*📘 Wort:* _Beispielwort 180_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 180\n*🇮🇷 فارسی:* ترجمه 180\n\n💬 _Beispielsatz mit Wort 180._",
-    "bild": "https://dein-server.de/bilder/wort_180.png",
-    "audio": "https://dein-server.de/audios/wort_180.mp3"
-  },
-  {
-    "id": "a1_wort_181",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #181*\n\n*📘 Wort:* _Beispielwort 181_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 181\n*🇮🇷 فارسی:* ترجمه 181\n\n💬 _Beispielsatz mit Wort 181._",
-    "bild": "https://dein-server.de/bilder/wort_181.png",
-    "audio": "https://dein-server.de/audios/wort_181.mp3"
-  },
-  {
-    "id": "a1_wort_182",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #182*\n\n*📘 Wort:* _Beispielwort 182_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 182\n*🇮🇷 فارسی:* ترجمه 182\n\n💬 _Beispielsatz mit Wort 182._",
-    "bild": "https://dein-server.de/bilder/wort_182.png",
-    "audio": "https://dein-server.de/audios/wort_182.mp3"
-  },
-  {
-    "id": "a1_wort_183",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #183*\n\n*📘 Wort:* _Beispielwort 183_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 183\n*🇮🇷 فارسی:* ترجمه 183\n\n💬 _Beispielsatz mit Wort 183._",
-    "bild": "https://dein-server.de/bilder/wort_183.png",
-    "audio": "https://dein-server.de/audios/wort_183.mp3"
-  },
-  {
-    "id": "a1_wort_184",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #184*\n\n*📘 Wort:* _Beispielwort 184_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 184\n*🇮🇷 فارسی:* ترجمه 184\n\n💬 _Beispielsatz mit Wort 184._",
-    "bild": "https://dein-server.de/bilder/wort_184.png",
-    "audio": "https://dein-server.de/audios/wort_184.mp3"
-  },
-  {
-    "id": "a1_wort_185",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #185*\n\n*📘 Wort:* _Beispielwort 185_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 185\n*🇮🇷 فارسی:* ترجمه 185\n\n💬 _Beispielsatz mit Wort 185._",
-    "bild": "https://dein-server.de/bilder/wort_185.png",
-    "audio": "https://dein-server.de/audios/wort_185.mp3"
-  },
-  {
-    "id": "a1_wort_186",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #186*\n\n*📘 Wort:* _Beispielwort 186_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 186\n*🇮🇷 فارسی:* ترجمه 186\n\n💬 _Beispielsatz mit Wort 186._",
-    "bild": "https://dein-server.de/bilder/wort_186.png",
-    "audio": "https://dein-server.de/audios/wort_186.mp3"
-  },
-  {
-    "id": "a1_wort_187",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #187*\n\n*📘 Wort:* _Beispielwort 187_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 187\n*🇮🇷 فارسی:* ترجمه 187\n\n💬 _Beispielsatz mit Wort 187._",
-    "bild": "https://dein-server.de/bilder/wort_187.png",
-    "audio": "https://dein-server.de/audios/wort_187.mp3"
-  },
-  {
-    "id": "a1_wort_188",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #188*\n\n*📘 Wort:* _Beispielwort 188_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 188\n*🇮🇷 فارسی:* ترجمه 188\n\n💬 _Beispielsatz mit Wort 188._",
-    "bild": "https://dein-server.de/bilder/wort_188.png",
-    "audio": "https://dein-server.de/audios/wort_188.mp3"
-  },
-  {
-    "id": "a1_wort_189",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #189*\n\n*📘 Wort:* _Beispielwort 189_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 189\n*🇮🇷 فارسی:* ترجمه 189\n\n💬 _Beispielsatz mit Wort 189._",
-    "bild": "https://dein-server.de/bilder/wort_189.png",
-    "audio": "https://dein-server.de/audios/wort_189.mp3"
-  },
-  {
-    "id": "a1_wort_190",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #190*\n\n*📘 Wort:* _Beispielwort 190_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 190\n*🇮🇷 فارسی:* ترجمه 190\n\n💬 _Beispielsatz mit Wort 190._",
-    "bild": "https://dein-server.de/bilder/wort_190.png",
-    "audio": "https://dein-server.de/audios/wort_190.mp3"
-  },
-  {
-    "id": "a1_wort_191",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #191*\n\n*📘 Wort:* _Beispielwort 191_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 191\n*🇮🇷 فارسی:* ترجمه 191\n\n💬 _Beispielsatz mit Wort 191._",
-    "bild": "https://dein-server.de/bilder/wort_191.png",
-    "audio": "https://dein-server.de/audios/wort_191.mp3"
-  },
-  {
-    "id": "a1_wort_192",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #192*\n\n*📘 Wort:* _Beispielwort 192_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 192\n*🇮🇷 فارسی:* ترجمه 192\n\n💬 _Beispielsatz mit Wort 192._",
-    "bild": "https://dein-server.de/bilder/wort_192.png",
-    "audio": "https://dein-server.de/audios/wort_192.mp3"
-  },
-  {
-    "id": "a1_wort_193",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #193*\n\n*📘 Wort:* _Beispielwort 193_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 193\n*🇮🇷 فارسی:* ترجمه 193\n\n💬 _Beispielsatz mit Wort 193._",
-    "bild": "https://dein-server.de/bilder/wort_193.png",
-    "audio": "https://dein-server.de/audios/wort_193.mp3"
-  },
-  {
-    "id": "a1_wort_194",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #194*\n\n*📘 Wort:* _Beispielwort 194_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 194\n*🇮🇷 فارسی:* ترجمه 194\n\n💬 _Beispielsatz mit Wort 194._",
-    "bild": "https://dein-server.de/bilder/wort_194.png",
-    "audio": "https://dein-server.de/audios/wort_194.mp3"
-  },
-  {
-    "id": "a1_wort_195",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #195*\n\n*📘 Wort:* _Beispielwort 195_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 195\n*🇮🇷 فارسی:* ترجمه 195\n\n💬 _Beispielsatz mit Wort 195._",
-    "bild": "https://dein-server.de/bilder/wort_195.png",
-    "audio": "https://dein-server.de/audios/wort_195.mp3"
-  },
-  {
-    "id": "a1_wort_196",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #196*\n\n*📘 Wort:* _Beispielwort 196_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 196\n*🇮🇷 فارسی:* ترجمه 196\n\n💬 _Beispielsatz mit Wort 196._",
-    "bild": "https://dein-server.de/bilder/wort_196.png",
-    "audio": "https://dein-server.de/audios/wort_196.mp3"
-  },
-  {
-    "id": "a1_wort_197",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #197*\n\n*📘 Wort:* _Beispielwort 197_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 197\n*🇮🇷 فارسی:* ترجمه 197\n\n💬 _Beispielsatz mit Wort 197._",
-    "bild": "https://dein-server.de/bilder/wort_197.png",
-    "audio": "https://dein-server.de/audios/wort_197.mp3"
-  },
-  {
-    "id": "a1_wort_198",
-    "zeit": "17:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #198*\n\n*📘 Wort:* _Beispielwort 198_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 198\n*🇮🇷 فارسی:* ترجمه 198\n\n💬 _Beispielsatz mit Wort 198._",
-    "bild": "https://dein-server.de/bilder/wort_198.png",
-    "audio": "https://dein-server.de/audios/wort_198.mp3"
-  },
-  {
-    "id": "a1_wort_199",
-    "zeit": "06:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #199*\n\n*📘 Wort:* _Beispielwort 199_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 199\n*🇮🇷 فارسی:* ترجمه 199\n\n💬 _Beispielsatz mit Wort 199._",
-    "bild": "https://dein-server.de/bilder/wort_199.png",
-    "audio": "https://dein-server.de/audios/wort_199.mp3"
-  },
-  {
-    "id": "a1_wort_200",
-    "zeit": "13:00",
-    "niveau": "A2",
-    "text": "*[A2] Wort des Tages #200*\n\n*📘 Wort:* _Beispielwort 200_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 200\n*🇮🇷 فارسی:* ترجمه 200\n\n💬 _Beispielsatz mit Wort 200._",
-    "bild": "https://dein-server.de/bilder/wort_200.png",
-    "audio": "https://dein-server.de/audios/wort_200.mp3"
-  },
-  {
-    "id": "a1_wort_201",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #201*\n\n*📘 Wort:* _Beispielwort 201_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 201\n*🇮🇷 فارسی:* ترجمه 201\n\n💬 _Beispielsatz mit Wort 201._",
-    "bild": "https://dein-server.de/bilder/wort_201.png",
-    "audio": "https://dein-server.de/audios/wort_201.mp3"
-  },
-  {
-    "id": "a1_wort_202",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #202*\n\n*📘 Wort:* _Beispielwort 202_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 202\n*🇮🇷 فارسی:* ترجمه 202\n\n💬 _Beispielsatz mit Wort 202._",
-    "bild": "https://dein-server.de/bilder/wort_202.png",
-    "audio": "https://dein-server.de/audios/wort_202.mp3"
-  },
-  {
-    "id": "a1_wort_203",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #203*\n\n*📘 Wort:* _Beispielwort 203_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 203\n*🇮🇷 فارسی:* ترجمه 203\n\n💬 _Beispielsatz mit Wort 203._",
-    "bild": "https://dein-server.de/bilder/wort_203.png",
-    "audio": "https://dein-server.de/audios/wort_203.mp3"
-  },
-  {
-    "id": "a1_wort_204",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #204*\n\n*📘 Wort:* _Beispielwort 204_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 204\n*🇮🇷 فارسی:* ترجمه 204\n\n💬 _Beispielsatz mit Wort 204._",
-    "bild": "https://dein-server.de/bilder/wort_204.png",
-    "audio": "https://dein-server.de/audios/wort_204.mp3"
-  },
-  {
-    "id": "a1_wort_205",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #205*\n\n*📘 Wort:* _Beispielwort 205_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 205\n*🇮🇷 فارسی:* ترجمه 205\n\n💬 _Beispielsatz mit Wort 205._",
-    "bild": "https://dein-server.de/bilder/wort_205.png",
-    "audio": "https://dein-server.de/audios/wort_205.mp3"
-  },
-  {
-    "id": "a1_wort_206",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #206*\n\n*📘 Wort:* _Beispielwort 206_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 206\n*🇮🇷 فارسی:* ترجمه 206\n\n💬 _Beispielsatz mit Wort 206._",
-    "bild": "https://dein-server.de/bilder/wort_206.png",
-    "audio": "https://dein-server.de/audios/wort_206.mp3"
-  },
-  {
-    "id": "a1_wort_207",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #207*\n\n*📘 Wort:* _Beispielwort 207_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 207\n*🇮🇷 فارسی:* ترجمه 207\n\n💬 _Beispielsatz mit Wort 207._",
-    "bild": "https://dein-server.de/bilder/wort_207.png",
-    "audio": "https://dein-server.de/audios/wort_207.mp3"
-  },
-  {
-    "id": "a1_wort_208",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #208*\n\n*📘 Wort:* _Beispielwort 208_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 208\n*🇮🇷 فارسی:* ترجمه 208\n\n💬 _Beispielsatz mit Wort 208._",
-    "bild": "https://dein-server.de/bilder/wort_208.png",
-    "audio": "https://dein-server.de/audios/wort_208.mp3"
-  },
-  {
-    "id": "a1_wort_209",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #209*\n\n*📘 Wort:* _Beispielwort 209_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 209\n*🇮🇷 فارسی:* ترجمه 209\n\n💬 _Beispielsatz mit Wort 209._",
-    "bild": "https://dein-server.de/bilder/wort_209.png",
-    "audio": "https://dein-server.de/audios/wort_209.mp3"
-  },
-  {
-    "id": "a1_wort_210",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #210*\n\n*📘 Wort:* _Beispielwort 210_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 210\n*🇮🇷 فارسی:* ترجمه 210\n\n💬 _Beispielsatz mit Wort 210._",
-    "bild": "https://dein-server.de/bilder/wort_210.png",
-    "audio": "https://dein-server.de/audios/wort_210.mp3"
-  },
-  {
-    "id": "a1_wort_211",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #211*\n\n*📘 Wort:* _Beispielwort 211_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 211\n*🇮🇷 فارسی:* ترجمه 211\n\n💬 _Beispielsatz mit Wort 211._",
-    "bild": "https://dein-server.de/bilder/wort_211.png",
-    "audio": "https://dein-server.de/audios/wort_211.mp3"
-  },
-  {
-    "id": "a1_wort_212",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #212*\n\n*📘 Wort:* _Beispielwort 212_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 212\n*🇮🇷 فارسی:* ترجمه 212\n\n💬 _Beispielsatz mit Wort 212._",
-    "bild": "https://dein-server.de/bilder/wort_212.png",
-    "audio": "https://dein-server.de/audios/wort_212.mp3"
-  },
-  {
-    "id": "a1_wort_213",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #213*\n\n*📘 Wort:* _Beispielwort 213_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 213\n*🇮🇷 فارسی:* ترجمه 213\n\n💬 _Beispielsatz mit Wort 213._",
-    "bild": "https://dein-server.de/bilder/wort_213.png",
-    "audio": "https://dein-server.de/audios/wort_213.mp3"
-  },
-  {
-    "id": "a1_wort_214",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #214*\n\n*📘 Wort:* _Beispielwort 214_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 214\n*🇮🇷 فارسی:* ترجمه 214\n\n💬 _Beispielsatz mit Wort 214._",
-    "bild": "https://dein-server.de/bilder/wort_214.png",
-    "audio": "https://dein-server.de/audios/wort_214.mp3"
-  },
-  {
-    "id": "a1_wort_215",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #215*\n\n*📘 Wort:* _Beispielwort 215_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 215\n*🇮🇷 فارسی:* ترجمه 215\n\n💬 _Beispielsatz mit Wort 215._",
-    "bild": "https://dein-server.de/bilder/wort_215.png",
-    "audio": "https://dein-server.de/audios/wort_215.mp3"
-  },
-  {
-    "id": "a1_wort_216",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #216*\n\n*📘 Wort:* _Beispielwort 216_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 216\n*🇮🇷 فارسی:* ترجمه 216\n\n💬 _Beispielsatz mit Wort 216._",
-    "bild": "https://dein-server.de/bilder/wort_216.png",
-    "audio": "https://dein-server.de/audios/wort_216.mp3"
-  },
-  {
-    "id": "a1_wort_217",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #217*\n\n*📘 Wort:* _Beispielwort 217_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 217\n*🇮🇷 فارسی:* ترجمه 217\n\n💬 _Beispielsatz mit Wort 217._",
-    "bild": "https://dein-server.de/bilder/wort_217.png",
-    "audio": "https://dein-server.de/audios/wort_217.mp3"
-  },
-  {
-    "id": "a1_wort_218",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #218*\n\n*📘 Wort:* _Beispielwort 218_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 218\n*🇮🇷 فارسی:* ترجمه 218\n\n💬 _Beispielsatz mit Wort 218._",
-    "bild": "https://dein-server.de/bilder/wort_218.png",
-    "audio": "https://dein-server.de/audios/wort_218.mp3"
-  },
-  {
-    "id": "a1_wort_219",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #219*\n\n*📘 Wort:* _Beispielwort 219_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 219\n*🇮🇷 فارسی:* ترجمه 219\n\n💬 _Beispielsatz mit Wort 219._",
-    "bild": "https://dein-server.de/bilder/wort_219.png",
-    "audio": "https://dein-server.de/audios/wort_219.mp3"
-  },
-  {
-    "id": "a1_wort_220",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #220*\n\n*📘 Wort:* _Beispielwort 220_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 220\n*🇮🇷 فارسی:* ترجمه 220\n\n💬 _Beispielsatz mit Wort 220._",
-    "bild": "https://dein-server.de/bilder/wort_220.png",
-    "audio": "https://dein-server.de/audios/wort_220.mp3"
-  },
-  {
-    "id": "a1_wort_221",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #221*\n\n*📘 Wort:* _Beispielwort 221_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 221\n*🇮🇷 فارسی:* ترجمه 221\n\n💬 _Beispielsatz mit Wort 221._",
-    "bild": "https://dein-server.de/bilder/wort_221.png",
-    "audio": "https://dein-server.de/audios/wort_221.mp3"
-  },
-  {
-    "id": "a1_wort_222",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #222*\n\n*📘 Wort:* _Beispielwort 222_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 222\n*🇮🇷 فارسی:* ترجمه 222\n\n💬 _Beispielsatz mit Wort 222._",
-    "bild": "https://dein-server.de/bilder/wort_222.png",
-    "audio": "https://dein-server.de/audios/wort_222.mp3"
-  },
-  {
-    "id": "a1_wort_223",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #223*\n\n*📘 Wort:* _Beispielwort 223_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 223\n*🇮🇷 فارسی:* ترجمه 223\n\n💬 _Beispielsatz mit Wort 223._",
-    "bild": "https://dein-server.de/bilder/wort_223.png",
-    "audio": "https://dein-server.de/audios/wort_223.mp3"
-  },
-  {
-    "id": "a1_wort_224",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #224*\n\n*📘 Wort:* _Beispielwort 224_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 224\n*🇮🇷 فارسی:* ترجمه 224\n\n💬 _Beispielsatz mit Wort 224._",
-    "bild": "https://dein-server.de/bilder/wort_224.png",
-    "audio": "https://dein-server.de/audios/wort_224.mp3"
-  },
-  {
-    "id": "a1_wort_225",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #225*\n\n*📘 Wort:* _Beispielwort 225_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 225\n*🇮🇷 فارسی:* ترجمه 225\n\n💬 _Beispielsatz mit Wort 225._",
-    "bild": "https://dein-server.de/bilder/wort_225.png",
-    "audio": "https://dein-server.de/audios/wort_225.mp3"
-  },
-  {
-    "id": "a1_wort_226",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #226*\n\n*📘 Wort:* _Beispielwort 226_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 226\n*🇮🇷 فارسی:* ترجمه 226\n\n💬 _Beispielsatz mit Wort 226._",
-    "bild": "https://dein-server.de/bilder/wort_226.png",
-    "audio": "https://dein-server.de/audios/wort_226.mp3"
-  },
-  {
-    "id": "a1_wort_227",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #227*\n\n*📘 Wort:* _Beispielwort 227_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 227\n*🇮🇷 فارسی:* ترجمه 227\n\n💬 _Beispielsatz mit Wort 227._",
-    "bild": "https://dein-server.de/bilder/wort_227.png",
-    "audio": "https://dein-server.de/audios/wort_227.mp3"
-  },
-  {
-    "id": "a1_wort_228",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #228*\n\n*📘 Wort:* _Beispielwort 228_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 228\n*🇮🇷 فارسی:* ترجمه 228\n\n💬 _Beispielsatz mit Wort 228._",
-    "bild": "https://dein-server.de/bilder/wort_228.png",
-    "audio": "https://dein-server.de/audios/wort_228.mp3"
-  },
-  {
-    "id": "a1_wort_229",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #229*\n\n*📘 Wort:* _Beispielwort 229_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 229\n*🇮🇷 فارسی:* ترجمه 229\n\n💬 _Beispielsatz mit Wort 229._",
-    "bild": "https://dein-server.de/bilder/wort_229.png",
-    "audio": "https://dein-server.de/audios/wort_229.mp3"
-  },
-  {
-    "id": "a1_wort_230",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #230*\n\n*📘 Wort:* _Beispielwort 230_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 230\n*🇮🇷 فارسی:* ترجمه 230\n\n💬 _Beispielsatz mit Wort 230._",
-    "bild": "https://dein-server.de/bilder/wort_230.png",
-    "audio": "https://dein-server.de/audios/wort_230.mp3"
-  },
-  {
-    "id": "a1_wort_231",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #231*\n\n*📘 Wort:* _Beispielwort 231_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 231\n*🇮🇷 فارسی:* ترجمه 231\n\n💬 _Beispielsatz mit Wort 231._",
-    "bild": "https://dein-server.de/bilder/wort_231.png",
-    "audio": "https://dein-server.de/audios/wort_231.mp3"
-  },
-  {
-    "id": "a1_wort_232",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #232*\n\n*📘 Wort:* _Beispielwort 232_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 232\n*🇮🇷 فارسی:* ترجمه 232\n\n💬 _Beispielsatz mit Wort 232._",
-    "bild": "https://dein-server.de/bilder/wort_232.png",
-    "audio": "https://dein-server.de/audios/wort_232.mp3"
-  },
-  {
-    "id": "a1_wort_233",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #233*\n\n*📘 Wort:* _Beispielwort 233_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 233\n*🇮🇷 فارسی:* ترجمه 233\n\n💬 _Beispielsatz mit Wort 233._",
-    "bild": "https://dein-server.de/bilder/wort_233.png",
-    "audio": "https://dein-server.de/audios/wort_233.mp3"
-  },
-  {
-    "id": "a1_wort_234",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #234*\n\n*📘 Wort:* _Beispielwort 234_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 234\n*🇮🇷 فارسی:* ترجمه 234\n\n💬 _Beispielsatz mit Wort 234._",
-    "bild": "https://dein-server.de/bilder/wort_234.png",
-    "audio": "https://dein-server.de/audios/wort_234.mp3"
-  },
-  {
-    "id": "a1_wort_235",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #235*\n\n*📘 Wort:* _Beispielwort 235_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 235\n*🇮🇷 فارسی:* ترجمه 235\n\n💬 _Beispielsatz mit Wort 235._",
-    "bild": "https://dein-server.de/bilder/wort_235.png",
-    "audio": "https://dein-server.de/audios/wort_235.mp3"
-  },
-  {
-    "id": "a1_wort_236",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #236*\n\n*📘 Wort:* _Beispielwort 236_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 236\n*🇮🇷 فارسی:* ترجمه 236\n\n💬 _Beispielsatz mit Wort 236._",
-    "bild": "https://dein-server.de/bilder/wort_236.png",
-    "audio": "https://dein-server.de/audios/wort_236.mp3"
-  },
-  {
-    "id": "a1_wort_237",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #237*\n\n*📘 Wort:* _Beispielwort 237_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 237\n*🇮🇷 فارسی:* ترجمه 237\n\n💬 _Beispielsatz mit Wort 237._",
-    "bild": "https://dein-server.de/bilder/wort_237.png",
-    "audio": "https://dein-server.de/audios/wort_237.mp3"
-  },
-  {
-    "id": "a1_wort_238",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #238*\n\n*📘 Wort:* _Beispielwort 238_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 238\n*🇮🇷 فارسی:* ترجمه 238\n\n💬 _Beispielsatz mit Wort 238._",
-    "bild": "https://dein-server.de/bilder/wort_238.png",
-    "audio": "https://dein-server.de/audios/wort_238.mp3"
-  },
-  {
-    "id": "a1_wort_239",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #239*\n\n*📘 Wort:* _Beispielwort 239_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 239\n*🇮🇷 فارسی:* ترجمه 239\n\n💬 _Beispielsatz mit Wort 239._",
-    "bild": "https://dein-server.de/bilder/wort_239.png",
-    "audio": "https://dein-server.de/audios/wort_239.mp3"
-  },
-  {
-    "id": "a1_wort_240",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #240*\n\n*📘 Wort:* _Beispielwort 240_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 240\n*🇮🇷 فارسی:* ترجمه 240\n\n💬 _Beispielsatz mit Wort 240._",
-    "bild": "https://dein-server.de/bilder/wort_240.png",
-    "audio": "https://dein-server.de/audios/wort_240.mp3"
-  },
-  {
-    "id": "a1_wort_241",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #241*\n\n*📘 Wort:* _Beispielwort 241_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 241\n*🇮🇷 فارسی:* ترجمه 241\n\n💬 _Beispielsatz mit Wort 241._",
-    "bild": "https://dein-server.de/bilder/wort_241.png",
-    "audio": "https://dein-server.de/audios/wort_241.mp3"
-  },
-  {
-    "id": "a1_wort_242",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #242*\n\n*📘 Wort:* _Beispielwort 242_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 242\n*🇮🇷 فارسی:* ترجمه 242\n\n💬 _Beispielsatz mit Wort 242._",
-    "bild": "https://dein-server.de/bilder/wort_242.png",
-    "audio": "https://dein-server.de/audios/wort_242.mp3"
-  },
-  {
-    "id": "a1_wort_243",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #243*\n\n*📘 Wort:* _Beispielwort 243_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 243\n*🇮🇷 فارسی:* ترجمه 243\n\n💬 _Beispielsatz mit Wort 243._",
-    "bild": "https://dein-server.de/bilder/wort_243.png",
-    "audio": "https://dein-server.de/audios/wort_243.mp3"
-  },
-  {
-    "id": "a1_wort_244",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #244*\n\n*📘 Wort:* _Beispielwort 244_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 244\n*🇮🇷 فارسی:* ترجمه 244\n\n💬 _Beispielsatz mit Wort 244._",
-    "bild": "https://dein-server.de/bilder/wort_244.png",
-    "audio": "https://dein-server.de/audios/wort_244.mp3"
-  },
-  {
-    "id": "a1_wort_245",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #245*\n\n*📘 Wort:* _Beispielwort 245_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 245\n*🇮🇷 فارسی:* ترجمه 245\n\n💬 _Beispielsatz mit Wort 245._",
-    "bild": "https://dein-server.de/bilder/wort_245.png",
-    "audio": "https://dein-server.de/audios/wort_245.mp3"
-  },
-  {
-    "id": "a1_wort_246",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #246*\n\n*📘 Wort:* _Beispielwort 246_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 246\n*🇮🇷 فارسی:* ترجمه 246\n\n💬 _Beispielsatz mit Wort 246._",
-    "bild": "https://dein-server.de/bilder/wort_246.png",
-    "audio": "https://dein-server.de/audios/wort_246.mp3"
-  },
-  {
-    "id": "a1_wort_247",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #247*\n\n*📘 Wort:* _Beispielwort 247_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 247\n*🇮🇷 فارسی:* ترجمه 247\n\n💬 _Beispielsatz mit Wort 247._",
-    "bild": "https://dein-server.de/bilder/wort_247.png",
-    "audio": "https://dein-server.de/audios/wort_247.mp3"
-  },
-  {
-    "id": "a1_wort_248",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #248*\n\n*📘 Wort:* _Beispielwort 248_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 248\n*🇮🇷 فارسی:* ترجمه 248\n\n💬 _Beispielsatz mit Wort 248._",
-    "bild": "https://dein-server.de/bilder/wort_248.png",
-    "audio": "https://dein-server.de/audios/wort_248.mp3"
-  },
-  {
-    "id": "a1_wort_249",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #249*\n\n*📘 Wort:* _Beispielwort 249_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 249\n*🇮🇷 فارسی:* ترجمه 249\n\n💬 _Beispielsatz mit Wort 249._",
-    "bild": "https://dein-server.de/bilder/wort_249.png",
-    "audio": "https://dein-server.de/audios/wort_249.mp3"
-  },
-  {
-    "id": "a1_wort_250",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #250*\n\n*📘 Wort:* _Beispielwort 250_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 250\n*🇮🇷 فارسی:* ترجمه 250\n\n💬 _Beispielsatz mit Wort 250._",
-    "bild": "https://dein-server.de/bilder/wort_250.png",
-    "audio": "https://dein-server.de/audios/wort_250.mp3"
-  },
-  {
-    "id": "a1_wort_251",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #251*\n\n*📘 Wort:* _Beispielwort 251_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 251\n*🇮🇷 فارسی:* ترجمه 251\n\n💬 _Beispielsatz mit Wort 251._",
-    "bild": "https://dein-server.de/bilder/wort_251.png",
-    "audio": "https://dein-server.de/audios/wort_251.mp3"
-  },
-  {
-    "id": "a1_wort_252",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #252*\n\n*📘 Wort:* _Beispielwort 252_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 252\n*🇮🇷 فارسی:* ترجمه 252\n\n💬 _Beispielsatz mit Wort 252._",
-    "bild": "https://dein-server.de/bilder/wort_252.png",
-    "audio": "https://dein-server.de/audios/wort_252.mp3"
-  },
-  {
-    "id": "a1_wort_253",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #253*\n\n*📘 Wort:* _Beispielwort 253_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 253\n*🇮🇷 فارسی:* ترجمه 253\n\n💬 _Beispielsatz mit Wort 253._",
-    "bild": "https://dein-server.de/bilder/wort_253.png",
-    "audio": "https://dein-server.de/audios/wort_253.mp3"
-  },
-  {
-    "id": "a1_wort_254",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #254*\n\n*📘 Wort:* _Beispielwort 254_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 254\n*🇮🇷 فارسی:* ترجمه 254\n\n💬 _Beispielsatz mit Wort 254._",
-    "bild": "https://dein-server.de/bilder/wort_254.png",
-    "audio": "https://dein-server.de/audios/wort_254.mp3"
-  },
-  {
-    "id": "a1_wort_255",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #255*\n\n*📘 Wort:* _Beispielwort 255_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 255\n*🇮🇷 فارسی:* ترجمه 255\n\n💬 _Beispielsatz mit Wort 255._",
-    "bild": "https://dein-server.de/bilder/wort_255.png",
-    "audio": "https://dein-server.de/audios/wort_255.mp3"
-  },
-  {
-    "id": "a1_wort_256",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #256*\n\n*📘 Wort:* _Beispielwort 256_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 256\n*🇮🇷 فارسی:* ترجمه 256\n\n💬 _Beispielsatz mit Wort 256._",
-    "bild": "https://dein-server.de/bilder/wort_256.png",
-    "audio": "https://dein-server.de/audios/wort_256.mp3"
-  },
-  {
-    "id": "a1_wort_257",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #257*\n\n*📘 Wort:* _Beispielwort 257_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 257\n*🇮🇷 فارسی:* ترجمه 257\n\n💬 _Beispielsatz mit Wort 257._",
-    "bild": "https://dein-server.de/bilder/wort_257.png",
-    "audio": "https://dein-server.de/audios/wort_257.mp3"
-  },
-  {
-    "id": "a1_wort_258",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #258*\n\n*📘 Wort:* _Beispielwort 258_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 258\n*🇮🇷 فارسی:* ترجمه 258\n\n💬 _Beispielsatz mit Wort 258._",
-    "bild": "https://dein-server.de/bilder/wort_258.png",
-    "audio": "https://dein-server.de/audios/wort_258.mp3"
-  },
-  {
-    "id": "a1_wort_259",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #259*\n\n*📘 Wort:* _Beispielwort 259_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 259\n*🇮🇷 فارسی:* ترجمه 259\n\n💬 _Beispielsatz mit Wort 259._",
-    "bild": "https://dein-server.de/bilder/wort_259.png",
-    "audio": "https://dein-server.de/audios/wort_259.mp3"
-  },
-  {
-    "id": "a1_wort_260",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #260*\n\n*📘 Wort:* _Beispielwort 260_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 260\n*🇮🇷 فارسی:* ترجمه 260\n\n💬 _Beispielsatz mit Wort 260._",
-    "bild": "https://dein-server.de/bilder/wort_260.png",
-    "audio": "https://dein-server.de/audios/wort_260.mp3"
-  },
-  {
-    "id": "a1_wort_261",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #261*\n\n*📘 Wort:* _Beispielwort 261_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 261\n*🇮🇷 فارسی:* ترجمه 261\n\n💬 _Beispielsatz mit Wort 261._",
-    "bild": "https://dein-server.de/bilder/wort_261.png",
-    "audio": "https://dein-server.de/audios/wort_261.mp3"
-  },
-  {
-    "id": "a1_wort_262",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #262*\n\n*📘 Wort:* _Beispielwort 262_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 262\n*🇮🇷 فارسی:* ترجمه 262\n\n💬 _Beispielsatz mit Wort 262._",
-    "bild": "https://dein-server.de/bilder/wort_262.png",
-    "audio": "https://dein-server.de/audios/wort_262.mp3"
-  },
-  {
-    "id": "a1_wort_263",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #263*\n\n*📘 Wort:* _Beispielwort 263_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 263\n*🇮🇷 فارسی:* ترجمه 263\n\n💬 _Beispielsatz mit Wort 263._",
-    "bild": "https://dein-server.de/bilder/wort_263.png",
-    "audio": "https://dein-server.de/audios/wort_263.mp3"
-  },
-  {
-    "id": "a1_wort_264",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #264*\n\n*📘 Wort:* _Beispielwort 264_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 264\n*🇮🇷 فارسی:* ترجمه 264\n\n💬 _Beispielsatz mit Wort 264._",
-    "bild": "https://dein-server.de/bilder/wort_264.png",
-    "audio": "https://dein-server.de/audios/wort_264.mp3"
-  },
-  {
-    "id": "a1_wort_265",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #265*\n\n*📘 Wort:* _Beispielwort 265_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 265\n*🇮🇷 فارسی:* ترجمه 265\n\n💬 _Beispielsatz mit Wort 265._",
-    "bild": "https://dein-server.de/bilder/wort_265.png",
-    "audio": "https://dein-server.de/audios/wort_265.mp3"
-  },
-  {
-    "id": "a1_wort_266",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #266*\n\n*📘 Wort:* _Beispielwort 266_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 266\n*🇮🇷 فارسی:* ترجمه 266\n\n💬 _Beispielsatz mit Wort 266._",
-    "bild": "https://dein-server.de/bilder/wort_266.png",
-    "audio": "https://dein-server.de/audios/wort_266.mp3"
-  },
-  {
-    "id": "a1_wort_267",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #267*\n\n*📘 Wort:* _Beispielwort 267_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 267\n*🇮🇷 فارسی:* ترجمه 267\n\n💬 _Beispielsatz mit Wort 267._",
-    "bild": "https://dein-server.de/bilder/wort_267.png",
-    "audio": "https://dein-server.de/audios/wort_267.mp3"
-  },
-  {
-    "id": "a1_wort_268",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #268*\n\n*📘 Wort:* _Beispielwort 268_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 268\n*🇮🇷 فارسی:* ترجمه 268\n\n💬 _Beispielsatz mit Wort 268._",
-    "bild": "https://dein-server.de/bilder/wort_268.png",
-    "audio": "https://dein-server.de/audios/wort_268.mp3"
-  },
-  {
-    "id": "a1_wort_269",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #269*\n\n*📘 Wort:* _Beispielwort 269_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 269\n*🇮🇷 فارسی:* ترجمه 269\n\n💬 _Beispielsatz mit Wort 269._",
-    "bild": "https://dein-server.de/bilder/wort_269.png",
-    "audio": "https://dein-server.de/audios/wort_269.mp3"
-  },
-  {
-    "id": "a1_wort_270",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #270*\n\n*📘 Wort:* _Beispielwort 270_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 270\n*🇮🇷 فارسی:* ترجمه 270\n\n💬 _Beispielsatz mit Wort 270._",
-    "bild": "https://dein-server.de/bilder/wort_270.png",
-    "audio": "https://dein-server.de/audios/wort_270.mp3"
-  },
-  {
-    "id": "a1_wort_271",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #271*\n\n*📘 Wort:* _Beispielwort 271_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 271\n*🇮🇷 فارسی:* ترجمه 271\n\n💬 _Beispielsatz mit Wort 271._",
-    "bild": "https://dein-server.de/bilder/wort_271.png",
-    "audio": "https://dein-server.de/audios/wort_271.mp3"
-  },
-  {
-    "id": "a1_wort_272",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #272*\n\n*📘 Wort:* _Beispielwort 272_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 272\n*🇮🇷 فارسی:* ترجمه 272\n\n💬 _Beispielsatz mit Wort 272._",
-    "bild": "https://dein-server.de/bilder/wort_272.png",
-    "audio": "https://dein-server.de/audios/wort_272.mp3"
-  },
-  {
-    "id": "a1_wort_273",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #273*\n\n*📘 Wort:* _Beispielwort 273_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 273\n*🇮🇷 فارسی:* ترجمه 273\n\n💬 _Beispielsatz mit Wort 273._",
-    "bild": "https://dein-server.de/bilder/wort_273.png",
-    "audio": "https://dein-server.de/audios/wort_273.mp3"
-  },
-  {
-    "id": "a1_wort_274",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #274*\n\n*📘 Wort:* _Beispielwort 274_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 274\n*🇮🇷 فارسی:* ترجمه 274\n\n💬 _Beispielsatz mit Wort 274._",
-    "bild": "https://dein-server.de/bilder/wort_274.png",
-    "audio": "https://dein-server.de/audios/wort_274.mp3"
-  },
-  {
-    "id": "a1_wort_275",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #275*\n\n*📘 Wort:* _Beispielwort 275_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 275\n*🇮🇷 فارسی:* ترجمه 275\n\n💬 _Beispielsatz mit Wort 275._",
-    "bild": "https://dein-server.de/bilder/wort_275.png",
-    "audio": "https://dein-server.de/audios/wort_275.mp3"
-  },
-  {
-    "id": "a1_wort_276",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #276*\n\n*📘 Wort:* _Beispielwort 276_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 276\n*🇮🇷 فارسی:* ترجمه 276\n\n💬 _Beispielsatz mit Wort 276._",
-    "bild": "https://dein-server.de/bilder/wort_276.png",
-    "audio": "https://dein-server.de/audios/wort_276.mp3"
-  },
-  {
-    "id": "a1_wort_277",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #277*\n\n*📘 Wort:* _Beispielwort 277_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 277\n*🇮🇷 فارسی:* ترجمه 277\n\n💬 _Beispielsatz mit Wort 277._",
-    "bild": "https://dein-server.de/bilder/wort_277.png",
-    "audio": "https://dein-server.de/audios/wort_277.mp3"
-  },
-  {
-    "id": "a1_wort_278",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #278*\n\n*📘 Wort:* _Beispielwort 278_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 278\n*🇮🇷 فارسی:* ترجمه 278\n\n💬 _Beispielsatz mit Wort 278._",
-    "bild": "https://dein-server.de/bilder/wort_278.png",
-    "audio": "https://dein-server.de/audios/wort_278.mp3"
-  },
-  {
-    "id": "a1_wort_279",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #279*\n\n*📘 Wort:* _Beispielwort 279_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 279\n*🇮🇷 فارسی:* ترجمه 279\n\n💬 _Beispielsatz mit Wort 279._",
-    "bild": "https://dein-server.de/bilder/wort_279.png",
-    "audio": "https://dein-server.de/audios/wort_279.mp3"
-  },
-  {
-    "id": "a1_wort_280",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #280*\n\n*📘 Wort:* _Beispielwort 280_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 280\n*🇮🇷 فارسی:* ترجمه 280\n\n💬 _Beispielsatz mit Wort 280._",
-    "bild": "https://dein-server.de/bilder/wort_280.png",
-    "audio": "https://dein-server.de/audios/wort_280.mp3"
-  },
-  {
-    "id": "a1_wort_281",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #281*\n\n*📘 Wort:* _Beispielwort 281_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 281\n*🇮🇷 فارسی:* ترجمه 281\n\n💬 _Beispielsatz mit Wort 281._",
-    "bild": "https://dein-server.de/bilder/wort_281.png",
-    "audio": "https://dein-server.de/audios/wort_281.mp3"
-  },
-  {
-    "id": "a1_wort_282",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #282*\n\n*📘 Wort:* _Beispielwort 282_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 282\n*🇮🇷 فارسی:* ترجمه 282\n\n💬 _Beispielsatz mit Wort 282._",
-    "bild": "https://dein-server.de/bilder/wort_282.png",
-    "audio": "https://dein-server.de/audios/wort_282.mp3"
-  },
-  {
-    "id": "a1_wort_283",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #283*\n\n*📘 Wort:* _Beispielwort 283_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 283\n*🇮🇷 فارسی:* ترجمه 283\n\n💬 _Beispielsatz mit Wort 283._",
-    "bild": "https://dein-server.de/bilder/wort_283.png",
-    "audio": "https://dein-server.de/audios/wort_283.mp3"
-  },
-  {
-    "id": "a1_wort_284",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #284*\n\n*📘 Wort:* _Beispielwort 284_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 284\n*🇮🇷 فارسی:* ترجمه 284\n\n💬 _Beispielsatz mit Wort 284._",
-    "bild": "https://dein-server.de/bilder/wort_284.png",
-    "audio": "https://dein-server.de/audios/wort_284.mp3"
-  },
-  {
-    "id": "a1_wort_285",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #285*\n\n*📘 Wort:* _Beispielwort 285_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 285\n*🇮🇷 فارسی:* ترجمه 285\n\n💬 _Beispielsatz mit Wort 285._",
-    "bild": "https://dein-server.de/bilder/wort_285.png",
-    "audio": "https://dein-server.de/audios/wort_285.mp3"
-  },
-  {
-    "id": "a1_wort_286",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #286*\n\n*📘 Wort:* _Beispielwort 286_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 286\n*🇮🇷 فارسی:* ترجمه 286\n\n💬 _Beispielsatz mit Wort 286._",
-    "bild": "https://dein-server.de/bilder/wort_286.png",
-    "audio": "https://dein-server.de/audios/wort_286.mp3"
-  },
-  {
-    "id": "a1_wort_287",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #287*\n\n*📘 Wort:* _Beispielwort 287_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 287\n*🇮🇷 فارسی:* ترجمه 287\n\n💬 _Beispielsatz mit Wort 287._",
-    "bild": "https://dein-server.de/bilder/wort_287.png",
-    "audio": "https://dein-server.de/audios/wort_287.mp3"
-  },
-  {
-    "id": "a1_wort_288",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #288*\n\n*📘 Wort:* _Beispielwort 288_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 288\n*🇮🇷 فارسی:* ترجمه 288\n\n💬 _Beispielsatz mit Wort 288._",
-    "bild": "https://dein-server.de/bilder/wort_288.png",
-    "audio": "https://dein-server.de/audios/wort_288.mp3"
-  },
-  {
-    "id": "a1_wort_289",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #289*\n\n*📘 Wort:* _Beispielwort 289_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 289\n*🇮🇷 فارسی:* ترجمه 289\n\n💬 _Beispielsatz mit Wort 289._",
-    "bild": "https://dein-server.de/bilder/wort_289.png",
-    "audio": "https://dein-server.de/audios/wort_289.mp3"
-  },
-  {
-    "id": "a1_wort_290",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #290*\n\n*📘 Wort:* _Beispielwort 290_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 290\n*🇮🇷 فارسی:* ترجمه 290\n\n💬 _Beispielsatz mit Wort 290._",
-    "bild": "https://dein-server.de/bilder/wort_290.png",
-    "audio": "https://dein-server.de/audios/wort_290.mp3"
-  },
-  {
-    "id": "a1_wort_291",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #291*\n\n*📘 Wort:* _Beispielwort 291_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 291\n*🇮🇷 فارسی:* ترجمه 291\n\n💬 _Beispielsatz mit Wort 291._",
-    "bild": "https://dein-server.de/bilder/wort_291.png",
-    "audio": "https://dein-server.de/audios/wort_291.mp3"
-  },
-  {
-    "id": "a1_wort_292",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #292*\n\n*📘 Wort:* _Beispielwort 292_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 292\n*🇮🇷 فارسی:* ترجمه 292\n\n💬 _Beispielsatz mit Wort 292._",
-    "bild": "https://dein-server.de/bilder/wort_292.png",
-    "audio": "https://dein-server.de/audios/wort_292.mp3"
-  },
-  {
-    "id": "a1_wort_293",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #293*\n\n*📘 Wort:* _Beispielwort 293_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 293\n*🇮🇷 فارسی:* ترجمه 293\n\n💬 _Beispielsatz mit Wort 293._",
-    "bild": "https://dein-server.de/bilder/wort_293.png",
-    "audio": "https://dein-server.de/audios/wort_293.mp3"
-  },
-  {
-    "id": "a1_wort_294",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #294*\n\n*📘 Wort:* _Beispielwort 294_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 294\n*🇮🇷 فارسی:* ترجمه 294\n\n💬 _Beispielsatz mit Wort 294._",
-    "bild": "https://dein-server.de/bilder/wort_294.png",
-    "audio": "https://dein-server.de/audios/wort_294.mp3"
-  },
-  {
-    "id": "a1_wort_295",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #295*\n\n*📘 Wort:* _Beispielwort 295_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 295\n*🇮🇷 فارسی:* ترجمه 295\n\n💬 _Beispielsatz mit Wort 295._",
-    "bild": "https://dein-server.de/bilder/wort_295.png",
-    "audio": "https://dein-server.de/audios/wort_295.mp3"
-  },
-  {
-    "id": "a1_wort_296",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #296*\n\n*📘 Wort:* _Beispielwort 296_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 296\n*🇮🇷 فارسی:* ترجمه 296\n\n💬 _Beispielsatz mit Wort 296._",
-    "bild": "https://dein-server.de/bilder/wort_296.png",
-    "audio": "https://dein-server.de/audios/wort_296.mp3"
-  },
-  {
-    "id": "a1_wort_297",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #297*\n\n*📘 Wort:* _Beispielwort 297_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 297\n*🇮🇷 فارسی:* ترجمه 297\n\n💬 _Beispielsatz mit Wort 297._",
-    "bild": "https://dein-server.de/bilder/wort_297.png",
-    "audio": "https://dein-server.de/audios/wort_297.mp3"
-  },
-  {
-    "id": "a1_wort_298",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #298*\n\n*📘 Wort:* _Beispielwort 298_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 298\n*🇮🇷 فارسی:* ترجمه 298\n\n💬 _Beispielsatz mit Wort 298._",
-    "bild": "https://dein-server.de/bilder/wort_298.png",
-    "audio": "https://dein-server.de/audios/wort_298.mp3"
-  },
-  {
-    "id": "a1_wort_299",
-    "zeit": "13:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #299*\n\n*📘 Wort:* _Beispielwort 299_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 299\n*🇮🇷 فارسی:* ترجمه 299\n\n💬 _Beispielsatz mit Wort 299._",
-    "bild": "https://dein-server.de/bilder/wort_299.png",
-    "audio": "https://dein-server.de/audios/wort_299.mp3"
-  },
-  {
-    "id": "a1_wort_300",
-    "zeit": "17:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #300*\n\n*📘 Wort:* _Beispielwort 300_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 300\n*🇮🇷 فارسی:* ترجمه 300\n\n💬 _Beispielsatz mit Wort 300._",
-    "bild": "https://dein-server.de/bilder/wort_300.png",
-    "audio": "https://dein-server.de/audios/wort_300.mp3"
-  },
-  {
-    "id": "a1_wort_301",
-    "zeit": "06:00",
-    "niveau": "B1",
-    "text": "*[B1] Wort des Tages #301*\n\n*📘 Wort:* _Beispielwort 301_\n*📙 Bedeutung:* Beispielhafte Bedeutung für Wort 301\n*🇮🇷 فارسی:* ترجمه 301\n\n💬 _Beispielsatz mit Wort 301._",
-    "bild": "https://dein-server.de/bilder/wort_301.png",
-    "audio": "https://dein-server.de/audios/wort_301.mp3"
+    "text": "*[A2] Beispielsatz*\n\n*✏️ Begriff:* _Sie arbeitet im Krankenhaus._\n*📙 Bedeutung:* Ort = im Krankenhaus\n*🇮🇷 فارسی:* او در بیمارستان کار می‌کند\n\n💬 _Sie arbeitet im Krankenhaus._ – Ort = im Krankenhaus",
+    "bild": "https://cdn.pixabay.com/photo/2016/11/29/06/15/architecture-1867187_960_720.jpg",
+    "audio": "https://www.sample-videos.com/audio/mp3/wave.mp3"
   }
 ]
