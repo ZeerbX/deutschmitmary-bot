@@ -1,13 +1,12 @@
 import os
 import json
 import random
-from dotenv import load_dotenv
 from telegram import Bot
-from telegram.constants import ParseMode
+from telegram.utils.helpers import escape_markdown
+from dotenv import load_dotenv
 
 # .env laden
 load_dotenv()
-
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 POSTS_FILE = "posts.json"
@@ -22,41 +21,43 @@ def load_posts():
 def load_posted_ids():
     if not os.path.exists(POSTED_FILE):
         return set()
-    with open(POSTED_FILE, "r") as f:
+    with open(POSTED_FILE, "r", encoding="utf-8") as f:
         return set(line.strip() for line in f)
 
 def save_posted_id(post_id):
-    with open(POSTED_FILE, "a") as f:
+    with open(POSTED_FILE, "a", encoding="utf-8") as f:
         f.write(post_id + "\n")
 
-def get_next_post():
-    posts = load_posts()
-    posted = load_posted_ids()
-    candidates = [p for p in posts if p["id"] not in posted]
-    return random.choice(candidates) if candidates else None
+def find_unposted_post(posts, posted_ids):
+    unposted = [p for p in posts if p["id"] not in posted_ids]
+    return random.choice(unposted) if unposted else None
 
-def send_post():
-    post = get_next_post()
-    if not post:
-        print("❌ Keine neuen Beiträge.")
-        return
-
-    text = post.get("text", "")
+def post_to_telegram(post):
+    text = post["text"]
     image = post.get("bild")
     audio = post.get("audio")
 
     try:
         if image:
-            bot.send_photo(chat_id=CHAT_ID, photo=image, caption=text)
-        elif audio:
-            bot.send_audio(chat_id=CHAT_ID, audio=audio, caption=text)
-        else:
-            bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.MARKDOWN)
-
-        save_posted_id(post["id"])
-        print(f"✅ Beitrag {post['id']} erfolgreich gesendet.")
+            bot.send_photo(chat_id=CHAT_ID, photo=image, caption=None)
+        if audio:
+            bot.send_audio(chat_id=CHAT_ID, audio=audio, caption=None)
+        bot.send_message(chat_id=CHAT_ID, text=text, parse_mode="MarkdownV2")
+        print(f"✅ Beitrag {post['id']} erfolgreich gesendet")
     except Exception as e:
-        print(f"❌ Fehler beim Senden: {e}")
+        print(f"❌ Fehler beim Senden von {post['id']}: {e}")
+
+def main():
+    posts = load_posts()
+    posted_ids = load_posted_ids()
+    post = find_unposted_post(posts, posted_ids)
+
+    if not post:
+        print("⚠️ Keine neuen Beiträge verfügbar.")
+        return
+
+    post_to_telegram(post)
+    save_posted_id(post["id"])
 
 if __name__ == "__main__":
-    send_post()
+    main()
