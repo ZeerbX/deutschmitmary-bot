@@ -1,9 +1,9 @@
 import os
 import json
 import random
+from dotenv import load_dotenv
 from telegram import Bot
 from telegram.utils.helpers import escape_markdown
-from dotenv import load_dotenv
 
 # .env laden
 load_dotenv()
@@ -33,15 +33,16 @@ def find_unposted_post(posts, posted_ids):
     return random.choice(unposted) if unposted else None
 
 def post_to_telegram(post):
-    text = post["text"]
+    raw_text = post["text"]
+    text = escape_markdown(raw_text, version=2)
     image = post.get("bild")
     audio = post.get("audio")
 
     try:
         if image:
-            bot.send_photo(chat_id=CHAT_ID, photo=image, caption=None)
+            bot.send_photo(chat_id=CHAT_ID, photo=image)
         if audio:
-            bot.send_audio(chat_id=CHAT_ID, audio=audio, caption=None)
+            bot.send_audio(chat_id=CHAT_ID, audio=audio)
         bot.send_message(chat_id=CHAT_ID, text=text, parse_mode="MarkdownV2")
         print(f"✅ Beitrag {post['id']} erfolgreich gesendet")
     except Exception as e:
